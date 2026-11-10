@@ -1,0 +1,182 @@
+/* デジタル庁デザインシステムのデザイントークン（v2.1.0）の値を使用。#castle-ev の中だけに効きます */
+#castle-ev {
+  --blue-50: #e8f1fe;
+  --blue-100: #d9e6ff;
+  --blue-200: #c5d7fb;
+  --blue-900: #0017c1;
+  --blue-1000: #00118f;
+  --gray-50: #f2f2f2;
+  --gray-100: #e6e6e6;
+  --gray-200: #cccccc;
+  --gray-536: #767676;
+  --gray-700: #4d4d4d;
+  --gray-800: #333333;
+  --gray-900: #1a1a1a;
+  --white: #ffffff;
+  --green-50: #e6f5ec;
+  --green-800: #197a4b;
+  --yellow-50: #fbf5e0;
+  --yellow-300: #ffd43d;
+  --yellow-900: #927200;
+  --orange-50: #ffeee2;
+  --orange-800: #c74700;
+  --red-50: #fdeeee;
+  --red-900: #ce0000;
+  --radius-8: 0.5rem;
+  --radius-12: 0.75rem;
+  --font-body: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+}
+#castle-ev { font-family: var(--font-body); font-size: 1rem; line-height: 1.7; letter-spacing: 0.02em; color: var(--gray-800); background: var(--gray-50); padding: 16px; border-radius: var(--radius-12); }
+#castle-ev *, #castle-ev *::before, #castle-ev *::after { box-sizing: border-box; }
+#castle-ev h2 { border: 0; background: none; padding: 0; margin: 0; font-size: 1.125rem; }
+#castle-ev h2::before, #castle-ev h2::after { content: none; display: none; }
+#castle-ev p { margin: 0; }
+#castle-ev ul { margin: 0; padding: 0; }
+#castle-ev li::before { content: none; }
+#castle-ev .ce-main { padding-top: 24px; }
+#castle-ev .ce-updated { font-size: 0.875rem; color: var(--gray-700); text-align: right; }
+#castle-ev .notice { margin-top: 8px; }
+#castle-ev .view > *, #castle-ev .charts > *, #castle-ev .kpis > * { min-width: 0; }
+#castle-ev h1, #castle-ev h2, #castle-ev h3 { color: var(--gray-900); text-wrap: balance; margin: 0; line-height: 1.5; }
+#castle-ev a { color: var(--blue-1000); text-underline-offset: 3px; }
+#castle-ev a:hover { color: var(--blue-900); text-decoration-thickness: 2px; }
+#castle-ev :focus-visible { outline: 4px solid var(--gray-900); outline-offset: 2px; box-shadow: 0 0 0 2px var(--yellow-300); }
+#castle-ev .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+#castle-ev .notice {
+  background: var(--yellow-50); border: 1px solid var(--yellow-900); border-left-width: 6px;
+  border-radius: var(--radius-8); padding: 12px 16px; margin: 24px 0 0; font-size: 0.9375rem; color: var(--gray-900);
+}
+#castle-ev .view { display: grid; gap: 24px; }
+#castle-ev .view[hidden] { display: none; }
+#castle-ev .panel { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius-12); padding: 24px; min-width: 0; }
+@media (max-width: 480px) {
+#castle-ev .panel { padding: 16px; }
+}
+#castle-ev .panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+#castle-ev .panel h2 { font-size: 1.125rem; }
+#castle-ev .more { font-size: 0.9375rem; font-weight: 700; }
+#castle-ev .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+@media (max-width: 900px) {
+#castle-ev .kpis { grid-template-columns: repeat(2, 1fr); }
+}
+#castle-ev a.kpi {
+  display: grid; gap: 4px; text-decoration: none; color: inherit;
+  background: var(--white); border: 1px solid var(--gray-200); border-top: 6px solid var(--blue-900);
+  border-radius: var(--radius-12); padding: 20px 24px; position: relative;
+}
+#castle-ev a.kpi:hover { border-color: var(--blue-900); background: var(--blue-50); color: inherit; }
+#castle-ev a.kpi.live { border-top-color: var(--green-800); }
+#castle-ev a.kpi.free { border-top-color: var(--orange-800); }
+#castle-ev .kpi-label { font-size: 0.9375rem; color: var(--gray-700); font-weight: 700; }
+#castle-ev .kpi-value { font-size: 2.5rem; font-weight: 700; color: var(--gray-900); line-height: 1.3; font-variant-numeric: tabular-nums; }
+#castle-ev .kpi-value small { font-size: 1rem; margin-left: 4px; color: var(--gray-700); }
+#castle-ev .kpi-go { font-size: 0.875rem; color: var(--blue-1000); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+#castle-ev .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+@media (max-width: 900px) {
+#castle-ev .charts { grid-template-columns: 1fr; }
+}
+#castle-ev .bars { display: grid; gap: 4px; }
+#castle-ev a.bar-row {
+  display: grid; grid-template-columns: 7em 1fr 2.5em; align-items: center; gap: 12px;
+  font-size: 0.9375rem; color: var(--gray-900); text-decoration: none; padding: 6px 8px; border-radius: var(--radius-8);
+}
+#castle-ev a.bar-row:hover { background: var(--blue-50); color: var(--blue-1000); }
+#castle-ev a.bar-row:hover .bar-label { text-decoration: underline; }
+#castle-ev .bar-track { background: var(--gray-50); border-radius: 4px; height: 20px; overflow: hidden; }
+#castle-ev .bar-fill { height: 100%; background: var(--blue-900); border-radius: 4px; min-width: 2px; }
+#castle-ev .bar-num { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+#castle-ev .chart-note { font-size: 0.8125rem; color: var(--gray-700); margin: 8px 0 0; }
+#castle-ev .upcoming { list-style: none; margin: 0; padding: 0; display: grid; }
+#castle-ev .upcoming li { display: grid; grid-template-columns: 8.5em 1fr auto; gap: 16px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--gray-100); }
+#castle-ev .upcoming li:last-child { border-bottom: 0; }
+@media (max-width: 640px) {
+#castle-ev .upcoming li { grid-template-columns: 1fr; gap: 4px; }
+}
+#castle-ev .up-date { font-weight: 700; color: var(--gray-900); font-variant-numeric: tabular-nums; }
+#castle-ev .up-name { font-weight: 700; color: var(--gray-900); }
+#castle-ev .up-castle { font-size: 0.875rem; color: var(--gray-700); }
+#castle-ev .crumbs { font-size: 0.875rem; color: var(--gray-700); display: flex; flex-wrap: wrap; gap: 8px; }
+#castle-ev .crumbs a { font-weight: 700; }
+#castle-ev .list-title { font-size: 1.75rem; margin-top: 4px; }
+#castle-ev .list-lead { color: var(--gray-700); margin: 4px 0 0; }
+#castle-ev .views { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+#castle-ev .views a {
+  display: inline-flex; align-items: center; min-height: 2.5rem; padding: 4px 16px; border-radius: 999px;
+  border: 1px solid var(--gray-536); color: var(--gray-800); text-decoration: none; font-size: 0.9375rem; background: var(--white);
+}
+#castle-ev .views a:hover { border-color: var(--blue-900); color: var(--blue-1000); }
+#castle-ev .views a[aria-current="page"] { background: var(--blue-900); border-color: var(--blue-900); color: var(--white); font-weight: 700; }
+#castle-ev .filters { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 16px 24px; align-items: start; }
+@media (max-width: 900px) {
+#castle-ev .filters { grid-template-columns: 1fr; }
+}
+#castle-ev .field { display: grid; gap: 6px; min-width: 0; }
+#castle-ev .field > label, #castle-ev .field legend { font-weight: 700; color: var(--gray-900); padding: 0; }
+#castle-ev fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+#castle-ev input[type="search"], #castle-ev select {
+  font: inherit; font-size: 1rem; height: 3rem; padding: 0 16px; width: 100%;
+  border: 1px solid var(--gray-536); border-radius: var(--radius-8); background: var(--white); color: var(--gray-900);
+}
+#castle-ev select { appearance: none; padding-right: 44px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath d='M3 6l5 5 5-5' fill='none' stroke='%231a1a1a' stroke-width='2'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 16px center; }
+#castle-ev input[type="search"]:hover, #castle-ev select:hover { border-color: var(--gray-900); }
+#castle-ev .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+#castle-ev .chip input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+#castle-ev .chip span {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 2.5rem; padding: 4px 16px;
+  border: 1px solid var(--gray-536); border-radius: 999px; background: var(--white); color: var(--gray-800); cursor: pointer; font-size: 0.9375rem;
+}
+#castle-ev .chip span::before { content: ""; width: 14px; height: 14px; border: 2px solid var(--gray-536); border-radius: 3px; flex: none; }
+#castle-ev .chip input:checked + span { background: var(--blue-50); border-color: var(--blue-900); color: var(--blue-1000); font-weight: 700; }
+#castle-ev .chip input:checked + span::before { background: var(--blue-900); border-color: var(--blue-900);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 14'%3E%3Cpath d='M3 7l3 3 5-6' fill='none' stroke='white' stroke-width='2'/%3E%3C/svg%3E"); }
+#castle-ev .chip input:focus-visible + span { outline: 4px solid var(--gray-900); outline-offset: 2px; box-shadow: 0 0 0 2px var(--yellow-300); }
+#castle-ev .filter-foot { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--gray-100); }
+#castle-ev .result-count strong { font-size: 1.25rem; font-variant-numeric: tabular-nums; color: var(--gray-900); }
+#castle-ev .btn-text { font: inherit; background: none; border: 0; color: var(--blue-1000); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; padding: 8px 4px; }
+#castle-ev .events { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+#castle-ev .event {
+  background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius-12);
+  display: grid; grid-template-columns: 9em 1fr auto; gap: 20px; padding: 20px 24px; align-items: start;
+  border-left: 6px solid var(--gray-200);
+}
+#castle-ev .event.live { border-left-color: var(--green-800); }
+#castle-ev .event.soon { border-left-color: var(--yellow-300); }
+@media (max-width: 760px) {
+#castle-ev .event { grid-template-columns: 1fr; gap: 10px; padding: 16px; }
+}
+#castle-ev .ev-date { font-variant-numeric: tabular-nums; }
+#castle-ev .ev-date .d1 { white-space: nowrap; font-size: 1.125rem; font-weight: 700; color: var(--gray-900); line-height: 1.4; }
+#castle-ev .ev-date .d2 { font-size: 0.8125rem; color: var(--gray-700); }
+#castle-ev .ev-body { display: grid; gap: 6px; min-width: 0; }
+#castle-ev .ev-name { font-size: 1.125rem; font-weight: 700; color: var(--gray-900); }
+#castle-ev .ev-castle { font-size: 0.9375rem; color: var(--gray-800); }
+#castle-ev .ev-castle b { color: var(--gray-900); }
+#castle-ev .ev-desc { font-size: 0.9375rem; color: var(--gray-700); margin: 0; }
+#castle-ev .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+#castle-ev .tag { display: inline-block; font-size: 0.8125rem; line-height: 1.5; padding: 2px 10px; border-radius: 4px; border: 1px solid currentColor; white-space: nowrap; font-weight: 700; }
+#castle-ev .tag.type { color: var(--blue-1000); background: var(--blue-50); border-color: var(--blue-200); }
+#castle-ev .tag.live { color: var(--green-800); background: var(--green-50); }
+#castle-ev .tag.soon { color: var(--yellow-900); background: var(--yellow-50); }
+#castle-ev .tag.free { color: var(--orange-800); background: var(--orange-50); }
+#castle-ev .tag.resv { color: var(--red-900); background: var(--red-50); }
+#castle-ev .ev-link { display: grid; gap: 6px; justify-items: end; }
+@media (max-width: 760px) {
+#castle-ev .ev-link { justify-items: start; }
+}
+#castle-ev .btn {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 3rem; padding: 8px 20px; white-space: nowrap;
+  background: var(--blue-900); color: var(--white); border: 0; border-radius: var(--radius-8);
+  font: inherit; font-weight: 700; text-decoration: none; cursor: pointer;
+}
+#castle-ev .btn:hover { background: var(--blue-1000); color: var(--white); text-decoration: underline; }
+#castle-ev .src { font-size: 0.8125rem; color: var(--gray-700); }
+#castle-ev .src-msg { font-size: 0.8125rem; color: var(--red-900); font-weight: 700; }
+#castle-ev .empty { padding: 32px 16px; text-align: center; color: var(--gray-700); background: var(--white); border-radius: var(--radius-12); border: 1px solid var(--gray-200); }
+@media (prefers-reduced-motion: no-preference) {
+#castle-ev .bar-fill { transition: width 240ms ease; }
+}
+#castle-ev h2.list-title { font-size: 1.75rem; margin-top: 4px; }
+#castle-ev .ce-status { padding: 32px 16px; text-align: center; color: var(--gray-700); background: var(--white); border-radius: var(--radius-12); border: 1px solid var(--gray-200); }
+#castle-ev .ce-status.err { color: var(--red-900); font-weight: 700; }

@@ -7,6 +7,13 @@
 | パス | 内容 |
 |---|---|
 | `castle/events.json` | 全国お城イベント一覧のデータ |
+| `castle/castle.js` | 画面の部品と処理（WordPressのページから読み込む） |
+| `castle/castle.css` | デザイン（castle.jsが自動で読み込む） |
+
+## WordPress側の設定
+
+- 本文（コードモード）：`<div id="castle-ev">イベント情報を読み込んでいます…</div>`
+- Cocoonの「カスタムJavaScript」欄：`castle/castle.js` を読み込む短いコード
 
 ## events.json の形式
 
