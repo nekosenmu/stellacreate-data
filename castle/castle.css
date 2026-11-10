@@ -36,6 +36,7 @@
 #castle-ev .ce-main { padding-top: 24px; }
 #castle-ev .ce-updated { font-size: 0.875rem; color: var(--gray-700); text-align: right; }
 #castle-ev .notice { margin-top: 8px; }
+#castle-ev .notice[hidden] { display: none; }
 #castle-ev .view > *, #castle-ev .charts > *, #castle-ev .kpis > * { min-width: 0; }
 #castle-ev h1, #castle-ev h2, #castle-ev h3 { color: var(--gray-900); text-wrap: balance; margin: 0; line-height: 1.5; }
 #castle-ev a { color: var(--blue-1000); text-underline-offset: 3px; }

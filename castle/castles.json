@@ -1,0 +1,805 @@
+{
+ "note": "日本100名城（日本城郭協会選定）。day は定期更新で確認する曜日。official は確認できた公式・自治体サイトのURL（定期更新で埋めていく）。",
+ "castles": [
+  {
+   "no": 1,
+   "name": "根室半島チャシ跡群",
+   "pref": "北海道",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 2,
+   "name": "五稜郭",
+   "pref": "北海道",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 3,
+   "name": "松前城",
+   "pref": "北海道",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 4,
+   "name": "弘前城",
+   "pref": "青森県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 5,
+   "name": "根城",
+   "pref": "青森県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 6,
+   "name": "盛岡城",
+   "pref": "岩手県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 7,
+   "name": "多賀城",
+   "pref": "宮城県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 8,
+   "name": "仙台城",
+   "pref": "宮城県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 9,
+   "name": "久保田城",
+   "pref": "秋田県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 10,
+   "name": "山形城",
+   "pref": "山形県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 11,
+   "name": "二本松城",
+   "pref": "福島県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 12,
+   "name": "会津若松城",
+   "pref": "福島県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 13,
+   "name": "白河小峰城",
+   "pref": "福島県",
+   "region": "tohoku",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 14,
+   "name": "水戸城（弘道館）",
+   "pref": "茨城県",
+   "region": "kanto",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 15,
+   "name": "足利氏館（鑁阿寺）",
+   "pref": "栃木県",
+   "region": "kanto",
+   "day": "月",
+   "official": ""
+  },
+  {
+   "no": 16,
+   "name": "箕輪城",
+   "pref": "群馬県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 17,
+   "name": "金山城",
+   "pref": "群馬県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 18,
+   "name": "鉢形城",
+   "pref": "埼玉県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 19,
+   "name": "川越城",
+   "pref": "埼玉県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 20,
+   "name": "佐倉城",
+   "pref": "千葉県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 21,
+   "name": "江戸城",
+   "pref": "東京都",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 22,
+   "name": "八王子城",
+   "pref": "東京都",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 23,
+   "name": "小田原城",
+   "pref": "神奈川県",
+   "region": "kanto",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 24,
+   "name": "武田氏館（武田神社）",
+   "pref": "山梨県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 25,
+   "name": "甲府城",
+   "pref": "山梨県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 26,
+   "name": "松代城",
+   "pref": "長野県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 27,
+   "name": "上田城",
+   "pref": "長野県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 28,
+   "name": "小諸城",
+   "pref": "長野県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 29,
+   "name": "松本城",
+   "pref": "長野県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 30,
+   "name": "高遠城",
+   "pref": "長野県",
+   "region": "chubu",
+   "day": "火",
+   "official": ""
+  },
+  {
+   "no": 31,
+   "name": "新発田城",
+   "pref": "新潟県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 32,
+   "name": "春日山城",
+   "pref": "新潟県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 33,
+   "name": "高岡城",
+   "pref": "富山県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 34,
+   "name": "七尾城",
+   "pref": "石川県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 35,
+   "name": "金沢城",
+   "pref": "石川県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 36,
+   "name": "丸岡城",
+   "pref": "福井県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 37,
+   "name": "一乗谷城",
+   "pref": "福井県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 38,
+   "name": "岩村城",
+   "pref": "岐阜県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 39,
+   "name": "岐阜城",
+   "pref": "岐阜県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 40,
+   "name": "山中城",
+   "pref": "静岡県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 41,
+   "name": "駿府城",
+   "pref": "静岡県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 42,
+   "name": "掛川城",
+   "pref": "静岡県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 43,
+   "name": "犬山城",
+   "pref": "愛知県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 44,
+   "name": "名古屋城",
+   "pref": "愛知県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 45,
+   "name": "岡崎城",
+   "pref": "愛知県",
+   "region": "chubu",
+   "day": "水",
+   "official": ""
+  },
+  {
+   "no": 46,
+   "name": "長篠城",
+   "pref": "愛知県",
+   "region": "chubu",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 47,
+   "name": "伊賀上野城",
+   "pref": "三重県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 48,
+   "name": "松阪城",
+   "pref": "三重県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 49,
+   "name": "小谷城",
+   "pref": "滋賀県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 50,
+   "name": "彦根城",
+   "pref": "滋賀県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 51,
+   "name": "安土城",
+   "pref": "滋賀県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 52,
+   "name": "観音寺城",
+   "pref": "滋賀県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 53,
+   "name": "二条城",
+   "pref": "京都府",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 54,
+   "name": "大阪城",
+   "pref": "大阪府",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 55,
+   "name": "千早城",
+   "pref": "大阪府",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 56,
+   "name": "竹田城",
+   "pref": "兵庫県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 57,
+   "name": "篠山城",
+   "pref": "兵庫県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 58,
+   "name": "明石城",
+   "pref": "兵庫県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 59,
+   "name": "姫路城",
+   "pref": "兵庫県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 60,
+   "name": "赤穂城",
+   "pref": "兵庫県",
+   "region": "kinki",
+   "day": "木",
+   "official": ""
+  },
+  {
+   "no": 61,
+   "name": "高取城",
+   "pref": "奈良県",
+   "region": "kinki",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 62,
+   "name": "和歌山城",
+   "pref": "和歌山県",
+   "region": "kinki",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 63,
+   "name": "鳥取城",
+   "pref": "鳥取県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 64,
+   "name": "松江城",
+   "pref": "島根県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 65,
+   "name": "月山富田城",
+   "pref": "島根県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 66,
+   "name": "津和野城",
+   "pref": "島根県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 67,
+   "name": "津山城",
+   "pref": "岡山県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 68,
+   "name": "備中松山城",
+   "pref": "岡山県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 69,
+   "name": "鬼ノ城",
+   "pref": "岡山県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 70,
+   "name": "岡山城",
+   "pref": "岡山県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 71,
+   "name": "福山城",
+   "pref": "広島県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 72,
+   "name": "郡山城",
+   "pref": "広島県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 73,
+   "name": "広島城",
+   "pref": "広島県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 74,
+   "name": "岩国城",
+   "pref": "山口県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 75,
+   "name": "萩城",
+   "pref": "山口県",
+   "region": "chugoku-shikoku",
+   "day": "金",
+   "official": ""
+  },
+  {
+   "no": 76,
+   "name": "徳島城",
+   "pref": "徳島県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 77,
+   "name": "高松城",
+   "pref": "香川県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 78,
+   "name": "丸亀城",
+   "pref": "香川県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 79,
+   "name": "今治城",
+   "pref": "愛媛県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 80,
+   "name": "湯築城",
+   "pref": "愛媛県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 81,
+   "name": "松山城",
+   "pref": "愛媛県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 82,
+   "name": "大洲城",
+   "pref": "愛媛県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 83,
+   "name": "宇和島城",
+   "pref": "愛媛県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 84,
+   "name": "高知城",
+   "pref": "高知県",
+   "region": "chugoku-shikoku",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 85,
+   "name": "福岡城",
+   "pref": "福岡県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 86,
+   "name": "大野城",
+   "pref": "福岡県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 87,
+   "name": "名護屋城",
+   "pref": "佐賀県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 88,
+   "name": "吉野ケ里",
+   "pref": "佐賀県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 89,
+   "name": "佐賀城",
+   "pref": "佐賀県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 90,
+   "name": "平戸城",
+   "pref": "長崎県",
+   "region": "kyushu",
+   "day": "土",
+   "official": ""
+  },
+  {
+   "no": 91,
+   "name": "島原城",
+   "pref": "長崎県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 92,
+   "name": "熊本城",
+   "pref": "熊本県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 93,
+   "name": "人吉城",
+   "pref": "熊本県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 94,
+   "name": "大分府内城",
+   "pref": "大分県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 95,
+   "name": "岡城",
+   "pref": "大分県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 96,
+   "name": "飫肥城",
+   "pref": "宮崎県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 97,
+   "name": "鹿児島城",
+   "pref": "鹿児島県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 98,
+   "name": "今帰仁城",
+   "pref": "沖縄県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 99,
+   "name": "中城城",
+   "pref": "沖縄県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  },
+  {
+   "no": 100,
+   "name": "首里城",
+   "pref": "沖縄県",
+   "region": "kyushu",
+   "day": "日",
+   "official": ""
+  }
+ ]
+}

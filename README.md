@@ -8,6 +8,9 @@
 |---|---|
 | `castle/events.json` | 全国お城イベント一覧のデータ |
 | `castle/castle.js` | 画面の部品と処理（WordPressのページから読み込む） |
+| `castle/castles.json` | 日本100名城の一覧と、定期更新で確認する曜日 |
+| `scripts/validate.js` | events.json の形式チェック |
+| `UPDATE_GUIDE.md` | 毎日更新の手順 |
 | `castle/castle.css` | デザイン（castle.jsが自動で読み込む） |
 
 ## WordPress側の設定
@@ -44,4 +47,5 @@
 
 - 情報源は公式サイト・自治体・観光協会などの一次情報を優先する
 - 終了したイベントはページ側で自動的に非表示になる（データから消すのは任意）
-- 現在のデータは画面確認用の架空データ
+- `"dummy": true` の間は画面確認用の架空データ
+- `notice` に文字があれば、ページ上部にお知らせとして表示する
