@@ -727,7 +727,7 @@
    "pref": "長崎県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://shimabarajou.com/"
   },
   {
    "no": 92,
@@ -735,7 +735,7 @@
    "pref": "熊本県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://castle.kumamoto-guide.jp/"
   },
   {
    "no": 93,
@@ -743,7 +743,7 @@
    "pref": "熊本県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://www.city.hitoyoshi.lg.jp/shisei/kokyoshisetsu/hitoyoshijyo"
   },
   {
    "no": 94,
@@ -759,7 +759,7 @@
    "pref": "大分県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://okajou.jp/"
   },
   {
    "no": 96,
@@ -767,7 +767,7 @@
    "pref": "宮崎県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://obijyo.com/"
   },
   {
    "no": 97,
@@ -775,7 +775,7 @@
    "pref": "鹿児島県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://www.pref.kagoshima.jp/reimeikan/"
   },
   {
    "no": 98,
@@ -783,7 +783,7 @@
    "pref": "沖縄県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://www.nakijinjoseki-osi.jp/"
   },
   {
    "no": 99,
@@ -791,7 +791,7 @@
    "pref": "沖縄県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://www.nakagusuku-jo.jp/"
   },
   {
    "no": 100,
@@ -799,7 +799,7 @@
    "pref": "沖縄県",
    "region": "kyushu",
    "day": "日",
-   "official": ""
+   "official": "https://oki-park.jp/shurijo/"
   }
  ]
 }
