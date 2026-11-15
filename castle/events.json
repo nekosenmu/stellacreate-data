@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -380,20 +380,6 @@
       "url": "https://www.osakacastle.net/exhibition/specials/detail.html?id=186"
     },
     {
-      "name": "秋季特別展「天下人の城下町 安土」",
-      "castle": "安土城",
-      "pref": "滋賀県",
-      "region": "kinki",
-      "type": "展示",
-      "start": "2026-10-10",
-      "end": "2026-11-15",
-      "free": false,
-      "resv": false,
-      "desc": "城跡近くの安土城考古博物館で、信長が築いた安土の城下町を取り上げる。大人970円。",
-      "source": "滋賀県",
-      "url": "https://www.pref.shiga.lg.jp/documents/2526/20261027094851.pdf"
-    },
-    {
       "name": "特別展「蜂須賀正勝」",
       "castle": "徳島城",
       "pref": "徳島県",
@@ -490,20 +476,6 @@
       "desc": "彦根城博物館で、彦根藩の御用絵師・佐竹永海の作品を紹介。観覧は有料。",
       "source": "彦根城博物館",
       "url": "https://hikone-castle-museum.jp/exhibition/21388.html"
-    },
-    {
-      "name": "第98回 明石公園菊花展覧会",
-      "castle": "明石城",
-      "pref": "兵庫県",
-      "region": "kinki",
-      "type": "展示",
-      "start": "2026-10-24",
-      "end": "2026-11-15",
-      "free": false,
-      "resv": false,
-      "desc": "明石城のある明石公園で、大菊や懸崖、盆栽仕立ての菊を展示。",
-      "source": "明石観光協会",
-      "url": "https://www.yokoso-akashi.jp/event/3122"
     },
     {
       "name": "津和野城跡リフト 早朝運行",
@@ -660,20 +632,6 @@
       "url": "https://www.matsuyamajo.jp/event/ninomaru/11-6.html"
     },
     {
-      "name": "そば打ち体験",
-      "castle": "吉野ケ里",
-      "pref": "佐賀県",
-      "region": "kyushu",
-      "type": "体験",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "free": false,
-      "resv": true,
-      "desc": "園内で育てたそばを使って古代の森体験館でそば打ち。1組1,000円と入園料、各日5組。",
-      "source": "吉野ヶ里歴史公園",
-      "url": "https://www.yoshinogari.jp/event/soba-uchi-24.html"
-    },
-    {
       "name": "錦秋の玄宮園ライトアップ",
       "castle": "彦根城",
       "pref": "滋賀県",
@@ -686,20 +644,6 @@
       "desc": "彦根城の大名庭園・玄宮園の紅葉を夜間に照らす。大人900円（前売700円）。",
       "source": "彦根市",
       "url": "https://www.city.hikone.lg.jp/kakuka/kanko_bunka/2/2/25353.html"
-    },
-    {
-      "name": "入館無料Day！3館合同企画「学芸員からの挑戦状！2026」",
-      "castle": "松阪城",
-      "pref": "三重県",
-      "region": "kinki",
-      "type": "体験",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "free": true,
-      "resv": false,
-      "desc": "歴史民俗資料館など3館が入館無料。ミッションをクリアすると先着で記念品がもらえる。",
-      "source": "松阪市",
-      "url": "https://www.city.matsusaka.mie.jp/site/culture-info/3kangoudoukikaku2026.html"
     },
     {
       "name": "津山城もみじまつり",
@@ -728,20 +672,6 @@
       "desc": "指月公園内の花江茶亭で、11月の土日祝中心に10〜16時に抹茶を提供。一服700円から、入園料別。",
       "source": "萩市観光協会",
       "url": "https://www.hagishi.com/post-29481/"
-    },
-    {
-      "name": "仙台城大手門周辺の発掘調査現場見学会",
-      "castle": "仙台城",
-      "pref": "宮城県",
-      "region": "tohoku",
-      "type": "体験",
-      "start": "2026-11-15",
-      "end": "2026-11-15",
-      "free": false,
-      "resv": false,
-      "desc": "13時30分〜15時30分、大手門周辺の発掘現場を公開し職員が説明。予約不要、悪天候中止。",
-      "source": "仙台市",
-      "url": "https://www.city.sendai.jp/shisekichosa/20261105_bunkazaikishahappyou.html"
     },
     {
       "name": "「Teal Blue Bloom 2026」広島城ブルーライトアップ",
@@ -1245,7 +1175,7 @@
       "resv": false,
       "desc": "弘前公園追手門近くの外濠で、雪の積もった桜の枝を桜色に照らす。日没〜21時30分、観覧無料。",
       "source": "青森県観光情報サイト Amazing AOMORI",
-      "url": "https://aomori-tourism.com/event/detail_8176.html"
+      "url": "https://aomori-tourism.com/aomori-hakodate-spot/detail_8176.html"
     },
     {
       "name": "第5回姫路城プレミアムナイトツアー",
@@ -1766,7 +1696,7 @@
       "url": "https://www.town.yorii.saitama.jp/site/rekishikan/r8aki-kikaku.html"
     },
     {
-      "name": "第51回 弘前城雪燈籠まつり",
+      "name": "弘前城雪燈籠まつり",
       "castle": "弘前城",
       "pref": "青森県",
       "region": "tohoku",
@@ -1775,9 +1705,261 @@
       "end": "2027-02-14",
       "free": false,
       "resv": false,
-      "desc": "弘前公園で5日間開かれる冬の祭り。雪燈籠や雪像が並ぶ。2027年の時間等は今後発表。",
+      "desc": "弘前公園二の丸を主会場に雪燈籠や雪像、ろうそくを灯したミニかまくらが並ぶ冬の祭り。",
       "source": "弘前観光コンベンション協会",
-      "url": "https://www.hirosaki-kanko.or.jp/edit.html?id=cat02_winter_yuki"
+      "url": "https://www.hirosaki-kanko.or.jp/details.html?id=CNT00407281522122770"
+    },
+    {
+      "name": "菅江真澄、津軽の旅",
+      "castle": "弘前城",
+      "pref": "青森県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-03",
+      "end": "2026-11-29",
+      "free": false,
+      "resv": false,
+      "desc": "弘前公園内の弘前市立博物館で、江戸後期の旅人・菅江真澄の津軽での足跡を紹介。9時30分〜16時30分。",
+      "source": "弘前市",
+      "url": "https://www.city.hirosaki.aomori.jp/hakubutsukan/2026-1003-1129.html"
+    },
+    {
+      "name": "第17回 史跡根城・えんぶり公演",
+      "castle": "根城",
+      "pref": "青森県",
+      "region": "tohoku",
+      "type": "祭り・パレード",
+      "start": "2027-02-18",
+      "end": "2027-02-19",
+      "free": false,
+      "resv": false,
+      "desc": "史跡根城の広場の本丸で、八戸の郷土芸能えんぶりを両日11時から披露。本丸の入場料が必要。",
+      "source": "八戸市博物館",
+      "url": "https://hachinohe-city-museum.jp/event/%e5%8f%b2%e8%b7%a1%e6%a0%b9%e5%9f%8e%e3%83%bb%e3%81%88%e3%82%93%e3%81%b6%e3%82%8a%e5%85%ac%e6%bc%94/"
+    },
+    {
+      "name": "企画展「盛岡藩領物産展 －南部ブランドの底力－」",
+      "castle": "盛岡城",
+      "pref": "岩手県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-03",
+      "end": "2026-12-14",
+      "free": false,
+      "resv": false,
+      "desc": "もりおか歴史文化館の開館15周年企画。盛岡藩領の特産品の歴史を2階企画展示室で紹介。",
+      "source": "もりおか歴史文化館",
+      "url": "https://www.morireki.jp/plan/6223/"
+    },
+    {
+      "name": "テーマ展「干支コレクション －未－」",
+      "castle": "盛岡城",
+      "pref": "岩手県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-21",
+      "end": "2027-01-18",
+      "free": false,
+      "resv": false,
+      "desc": "もりおか歴史文化館2階で、2027年の干支・羊にちなむ収蔵品を展示。大人450円。",
+      "source": "もりおか歴史文化館",
+      "url": "https://www.morireki.jp/theme/6251/"
+    },
+    {
+      "name": "睦月のお箏演奏会",
+      "castle": "盛岡城",
+      "pref": "岩手県",
+      "region": "tohoku",
+      "type": "体験",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "free": false,
+      "resv": false,
+      "desc": "もりおか歴史文化館1階の祭り展示室で14時〜15時にお箏を演奏。定員50人、当日先着順。",
+      "source": "もりおか歴史文化館",
+      "url": "https://www.morireki.jp/event_info_next/"
+    },
+    {
+      "name": "ナイトタイムイベント「TAGAJO YOGOTO」",
+      "castle": "多賀城",
+      "pref": "宮城県",
+      "region": "tohoku",
+      "type": "ライトアップ",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "free": true,
+      "resv": false,
+      "desc": "多賀城跡の政庁南門跡周辺を光で演出し、復元南門で初のプロジェクションマッピング。土日祝はフードエリアも。",
+      "source": "宮城県",
+      "url": "https://www.pref.miyagi.jp/soshiki/kankou/2026tagajo_yogoto.html"
+    },
+    {
+      "name": "特集展示「新収蔵 伊達政宗文書」",
+      "castle": "仙台城",
+      "pref": "宮城県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-11-17",
+      "end": "2027-02-23",
+      "free": false,
+      "resv": false,
+      "desc": "仙台城三の丸跡の仙台市博物館で、政宗が片倉景綱に宛てた自筆の書状13通を公開。常設展観覧料が必要。",
+      "source": "仙台市",
+      "url": "https://www.city.sendai.jp/museum/shisetsuannai/huyuhaku2026.html"
+    },
+    {
+      "name": "特集展示「ええじゃないか！」",
+      "castle": "仙台城",
+      "pref": "宮城県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-11-17",
+      "end": "2027-02-23",
+      "free": false,
+      "resv": false,
+      "desc": "仙台市博物館で、江戸〜明治の浮世絵や風刺画、雑誌などから世相を紹介。年末年始は休館。",
+      "source": "仙台市",
+      "url": "https://www.city.sendai.jp/museum/shisetsuannai/huyuhaku2026.html"
+    },
+    {
+      "name": "仙台の伝統的な門松の再現展示",
+      "castle": "仙台城",
+      "pref": "宮城県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-12-15",
+      "end": "2027-01-31",
+      "free": false,
+      "resv": false,
+      "desc": "仙台市博物館1階エントランスホールで、仙台独特の正月飾りの門松を再現展示する。",
+      "source": "仙台市",
+      "url": "https://www.city.sendai.jp/museum/shisetsuannai/huyuhaku2026.html"
+    },
+    {
+      "name": "プレイミュージアムイベント「とべとべ！ミニたこ」",
+      "castle": "仙台城",
+      "pref": "宮城県",
+      "region": "tohoku",
+      "type": "体験",
+      "start": "2026-12-22",
+      "end": "2027-01-24",
+      "free": false,
+      "resv": false,
+      "desc": "仙台市博物館のプレイミュージアムで小さな凧を作る工作。常設展観覧券が必要、予約不要。",
+      "source": "仙台市",
+      "url": "https://www.city.sendai.jp/museum/shisetsuannai/huyuhaku2026.html"
+    },
+    {
+      "name": "ナゾトキ散策in千秋公園",
+      "castle": "久保田城",
+      "pref": "秋田県",
+      "region": "tohoku",
+      "type": "体験",
+      "start": "2026-10-10",
+      "end": "2026-11-30",
+      "free": true,
+      "resv": false,
+      "desc": "千秋公園を歩き佐竹氏にちなむ13問の謎を解く。解答用紙は佐竹史料館等で配布、達成で缶バッジ。",
+      "source": "秋田市",
+      "url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1002685/1038837/1053526.html"
+    },
+    {
+      "name": "プライム企画展「極東の狩人－阿部祥人が追い求めた氷河期の開拓者たち－」",
+      "castle": "山形城",
+      "pref": "山形県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-03",
+      "end": "2026-12-20",
+      "free": false,
+      "resv": false,
+      "desc": "霞城公園内の山形県立博物館で氷河期の人々の暮らしを紹介。大人300円、月曜休館。",
+      "source": "山形県立博物館",
+      "url": "https://www.yamagata-museum.jp/exhibition/4712"
+    },
+    {
+      "name": "第70回 二本松の菊人形〈豊臣家の絆と丹羽家の誇り〉",
+      "castle": "二本松城",
+      "pref": "福島県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-10",
+      "end": "2026-11-23",
+      "free": false,
+      "resv": false,
+      "desc": "霞ヶ城公園で70回目の菊人形展。9時〜16時、大人1,000円、中学生以下無料。",
+      "source": "二本松観光協会",
+      "url": "https://www.nihonmatsu-kanko.jp/?p=11716"
+    },
+    {
+      "name": "霞ヶ城公園 秋のライトアップ",
+      "castle": "二本松城",
+      "pref": "福島県",
+      "region": "tohoku",
+      "type": "ライトアップ",
+      "start": "2026-10-03",
+      "end": "2026-11-23",
+      "free": false,
+      "resv": false,
+      "desc": "霞ヶ城公園の日本庭園エリアと箕輪門通りの石垣を16時30分〜21時に照らす。",
+      "source": "二本松市",
+      "url": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/jyutaku_kouen/kouen/page011331.html"
+    },
+    {
+      "name": "高村智恵子生誕140年記念特別企画展「智恵子の芸術」",
+      "castle": "二本松城",
+      "pref": "福島県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2026-10-03",
+      "end": "2026-11-23",
+      "free": false,
+      "resv": false,
+      "desc": "城のふもとのにほんまつ城報館1階で、智恵子の作品を紹介。9時〜17時、一般200円。",
+      "source": "二本松市",
+      "url": "https://www.city.nihonmatsu.lg.jp/johokan/event_kikaku/page012817.html"
+    },
+    {
+      "name": "足利灯り物語2026",
+      "castle": "足利氏館（鑁阿寺）",
+      "pref": "栃木県",
+      "region": "kanto",
+      "type": "ライトアップ",
+      "start": "2026-11-14",
+      "end": "2026-11-23",
+      "free": false,
+      "resv": false,
+      "desc": "17時〜20時、鑁阿寺の大イチョウや多宝塔を照らし、足利学校・織姫神社と巡る。共通券600円。",
+      "source": "足利市観光協会",
+      "url": "https://www.ashikaga-kankou.jp/event/detail/akari2025"
+    },
+    {
+      "name": "第131回記念水戸の梅まつり",
+      "castle": "水戸城（弘道館）",
+      "pref": "茨城県",
+      "region": "kanto",
+      "type": "祭り・パレード",
+      "start": "2027-02-11",
+      "end": "2027-03-22",
+      "free": false,
+      "resv": false,
+      "desc": "偕楽園と弘道館が会場の梅まつり。弘道館では約60品種800本の梅が咲く。弘道館は大人420円。",
+      "source": "水戸観光コンベンション協会",
+      "url": "https://mitokoumon.com/event/history/mitoplumblossumfestival/"
+    },
+    {
+      "name": "広島城 宵めぐり 2026",
+      "castle": "広島城",
+      "pref": "広島県",
+      "region": "chugoku-shikoku",
+      "type": "ライトアップ",
+      "start": "2026-12-18",
+      "end": "2027-01-11",
+      "free": true,
+      "resv": false,
+      "desc": "天守で初のプロジェクションマッピング。表御門や石垣にも投影し本丸を照らす。17時30分〜21時、12/31〜1/3休み。",
+      "source": "広島市",
+      "url": "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/049/925/04.pdf"
     }
   ]
 }
