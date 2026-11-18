@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -672,20 +672,6 @@
       "desc": "指月公園内の花江茶亭で、11月の土日祝中心に10〜16時に抹茶を提供。一服700円から、入園料別。",
       "source": "萩市観光協会",
       "url": "https://www.hagishi.com/post-29481/"
-    },
-    {
-      "name": "「Teal Blue Bloom 2026」広島城ブルーライトアップ",
-      "castle": "広島城",
-      "pref": "広島県",
-      "region": "chugoku-shikoku",
-      "type": "ライトアップ",
-      "start": "2026-11-15",
-      "end": "2026-11-18",
-      "free": true,
-      "resv": false,
-      "desc": "子宮頸がん予防啓発の取り組みとして、日没から22時まで広島城を青色に照らす。",
-      "source": "広島城 公式サイト",
-      "url": "https://hiroshimacastle.jp/news/news-3076"
     },
     {
       "name": "【好古園】紅葉会",
