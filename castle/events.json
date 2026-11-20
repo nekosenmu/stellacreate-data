@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -2604,6 +2604,118 @@
       "desc": "駿府城公園の紅葉山庭園前広場で開くクリスマスマーケット。20時半から参加者がランタンを一斉に灯す。",
       "source": "Wonderful Christmasとランタンナイト実行委員会",
       "url": "https://prtimes.jp/main/html/rd/p/000000242.000101362.html"
+    },
+    {
+      "name": "松山城ふるさと講座",
+      "castle": "松山城",
+      "pref": "愛媛県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "free": false,
+      "resv": false,
+      "desc": "11月28日13時30分から約1時間、松山城ロープウェイ駅舎2階会議室で開かれる講座。予約不要で入退場自由。",
+      "source": "松山城（松山市）",
+      "url": "https://www.matsuyamajo.jp/event/11-8.html"
+    },
+    {
+      "name": "えひめ・まつやま産業まつり すごいもの博2026",
+      "castle": "松山城",
+      "pref": "愛媛県",
+      "region": "chugoku-shikoku",
+      "type": "グルメ・物産",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "free": false,
+      "resv": false,
+      "desc": "11月28日・29日の2日間、松山城跡の城山公園堀之内地区で開かれる産業まつり。両日とも10時から開催。",
+      "source": "松山城（松山市） 城山公園行事予定",
+      "url": "https://www.matsuyamajo.jp/event/horinouchi/11-7.html"
+    },
+    {
+      "name": "お正月イベント",
+      "castle": "佐賀城",
+      "pref": "佐賀県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-01-02",
+      "end": "2027-01-03",
+      "free": false,
+      "resv": false,
+      "desc": "佐賀城本丸歴史館で1月2日・3日に開催される正月行事。書き初めや凧づくりなどの体験が予定されている。",
+      "source": "佐賀城本丸歴史館",
+      "url": "https://saga-museum.jp/sagajou/docs/sagacastlehistory_schedule2026.pdf"
+    },
+    {
+      "name": "なりきり衣装体験",
+      "castle": "佐賀城",
+      "pref": "佐賀県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "free": false,
+      "resv": false,
+      "desc": "佐賀城本丸歴史館で毎月第2土曜に行われる衣装体験。1月9日10時半〜16時、受付は15時まで。",
+      "source": "佐賀城本丸歴史館",
+      "url": "https://saga-museum.jp/sagajou/docs/sagacastlehistory_schedule2026.pdf"
+    },
+    {
+      "name": "なりきり衣装体験",
+      "castle": "佐賀城",
+      "pref": "佐賀県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "free": false,
+      "resv": false,
+      "desc": "佐賀城本丸歴史館で毎月第2土曜に行われる衣装体験。2月13日10時半〜16時、受付は15時まで。",
+      "source": "佐賀城本丸歴史館",
+      "url": "https://saga-museum.jp/sagajou/docs/sagacastlehistory_schedule2026.pdf"
+    },
+    {
+      "name": "熊本城 謹賀新年 終夜ライトアップ",
+      "castle": "熊本城",
+      "pref": "熊本県",
+      "region": "kyushu",
+      "type": "ライトアップ",
+      "start": "2026-12-31",
+      "end": "2027-01-01",
+      "free": false,
+      "resv": false,
+      "desc": "大晦日の夜、熊本城天守閣を白一色で日没から元日の日の出まで終夜点灯する謹賀新年の特別ライトアップ。",
+      "source": "熊本城公式サイト",
+      "url": "https://castle.kumamoto-guide.jp/illumination/"
+    },
+    {
+      "name": "鶴ヶ城元旦登閣",
+      "castle": "会津若松城",
+      "pref": "福島県",
+      "region": "tohoku",
+      "type": "体験",
+      "start": "2027-01-01",
+      "end": "2027-01-01",
+      "free": false,
+      "resv": false,
+      "desc": "元日の午前0時から2時30分まで天守閣を特別に開け、新年最初の登閣ができる恒例行事。大人410円。",
+      "source": "会津若松観光ビューロー",
+      "url": "https://www.aizukanko.com/event/89"
+    },
+    {
+      "name": "黄泉のツガイ×高取城 クロスワードクイズラリー",
+      "castle": "高取城",
+      "pref": "奈良県",
+      "region": "kinki",
+      "type": "体験",
+      "start": "2026-12-05",
+      "end": "2027-01-30",
+      "free": false,
+      "resv": true,
+      "desc": "漫画『黄泉のツガイ』とのコラボ企画。高取城の登城道に置かれたクイズを解きつつ本丸を目指す。年末年始休止。",
+      "source": "高取町（PR TIMES発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000172099.html"
     }
   ]
 }
