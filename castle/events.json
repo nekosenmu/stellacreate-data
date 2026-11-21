@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -772,20 +772,6 @@
       "url": "https://okayama-castle.jp/5898/"
     },
     {
-      "name": "知る識る 高梁ガイドツアー 備中松山城コース",
-      "castle": "備中松山城",
-      "pref": "岡山県",
-      "region": "chugoku-shikoku",
-      "type": "体験",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "free": true,
-      "resv": true,
-      "desc": "9〜11時、ふいご峠駐車場集合で観光ガイドが城を案内。参加無料（入城料別）、電話・メールで要予約。",
-      "source": "岡山県観光連盟",
-      "url": "https://www.okayama-kanko.jp/event/detail_1002987.html"
-    },
-    {
       "name": "ヒンメリづくり",
       "castle": "吉野ケ里",
       "pref": "佐賀県",
@@ -814,20 +800,6 @@
       "url": "https://www.yoshinogari.jp/event/post-oyako-1.html"
     },
     {
-      "name": "和歌山城ドローンショー「WAKAYAMA LIGHTS 2026」",
-      "castle": "和歌山城",
-      "pref": "和歌山県",
-      "region": "kinki",
-      "type": "ライトアップ",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "free": false,
-      "resv": false,
-      "desc": "21日19時から約15分、約1000機のドローンが天守上空を彩る。西の丸広場が主な観覧場所、予備日22日。",
-      "source": "和歌山市 祭り・イベント",
-      "url": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1065599.html"
-    },
-    {
       "name": "和歌山城 光と幻想の夜",
       "castle": "和歌山城",
       "pref": "和歌山県",
@@ -840,20 +812,6 @@
       "desc": "17〜21時、二の丸庭園に光るクジラや魚、雲海の演出が登場。木々や園路も照らされる。",
       "source": "和歌山市 祭り・イベント",
       "url": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1065599.html"
-    },
-    {
-      "name": "岩国城ロープウエー夜間運行イベント",
-      "castle": "岩国城",
-      "pref": "山口県",
-      "region": "chugoku-shikoku",
-      "type": "ライトアップ",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "free": false,
-      "resv": false,
-      "desc": "17〜21時にロープウエーを夜間運行。山頂駅周辺で竹灯籠や天体観測、19時30分に花火も。",
-      "source": "岩国市 観光振興課",
-      "url": "https://www.city.iwakuni.lg.jp/soshiki/39/119071.html"
     },
     {
       "name": "牛魔王 秋の陣",
@@ -882,20 +840,6 @@
       "desc": "古城公園内の高岡市立博物館で開催。高岡城築城の許可に関わる徳川秀忠の書状などを紹介。",
       "source": "高岡市立博物館",
       "url": "https://www.e-tmm.info/nenkan2026.htm"
-    },
-    {
-      "name": "KOCHI 城フェス 2026",
-      "castle": "高知城",
-      "pref": "高知県",
-      "region": "chugoku-shikoku",
-      "type": "祭り・パレード",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "free": false,
-      "resv": true,
-      "desc": "高知城三ノ丸で昼はダンスコンテスト、夜は音楽ライブ。チケット制（2,000円から）。",
-      "source": "高知県",
-      "url": "https://www.pref.kochi.lg.jp/doc/2026100700129/"
     },
     {
       "name": "高知城オータムフェスティバル",
@@ -963,9 +907,9 @@
       "end": "2026-11-23",
       "free": false,
       "resv": true,
-      "desc": "再建された首里城正殿が11/23から一般公開。正殿内の見学は事前予約制の予定。",
+      "desc": "再建された首里城正殿の一般公開が11/23に開始。正殿内は30分ごとの日時指定予約制、大人1,000円。",
       "source": "沖縄美ら島財団",
-      "url": "https://oki-park.jp/shurijo/information/detail/10959"
+      "url": "https://oki-park.jp/shurijo/information/detail/11164"
     },
     {
       "name": "冬季企画展『新収蔵品展』",
@@ -2716,6 +2660,132 @@
       "desc": "漫画『黄泉のツガイ』とのコラボ企画。高取城の登城道に置かれたクイズを解きつつ本丸を目指す。年末年始休止。",
       "source": "高取町（PR TIMES発表）",
       "url": "https://prtimes.jp/main/html/rd/p/000000009.000172099.html"
+    },
+    {
+      "name": "第29回わかてだを見る集い",
+      "castle": "中城城",
+      "pref": "沖縄県",
+      "region": "kyushu",
+      "type": "祭り・パレード",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "free": true,
+      "resv": false,
+      "desc": "冬至の日の出を三の郭前広場で迎える集い。6:30開始、8:30までは入場無料。雨天中止。",
+      "source": "中城城跡共同管理協議会",
+      "url": "https://www.nakagusuku-jo.jp/xo_event/%e7%ac%ac29%e5%9b%9e%e3%82%8f%e3%81%8b%e3%81%a6%e3%81%a0%e3%82%92%e8%a6%8b%e3%82%8b%e9%9b%86%e3%81%84"
+    },
+    {
+      "name": "第6回 2026世界遺産ナイトウォーク",
+      "castle": "中城城",
+      "pref": "沖縄県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "free": false,
+      "resv": true,
+      "desc": "夜の中城城跡を歩くガイド付きツアー。19:30〜21:00、大人1,500円、定員30名で電話申込制。",
+      "source": "中城村観光協会",
+      "url": "https://www.nakagusuku-jo.jp/xo_event/%e7%ac%ac6%e5%9b%9e-2026%e4%b8%96%e7%95%8c%e9%81%ba%e7%94%a3%e3%83%8a%e3%82%a4%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%af"
+    },
+    {
+      "name": "第7回 2027世界遺産ナイトウォーク",
+      "castle": "中城城",
+      "pref": "沖縄県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "free": false,
+      "resv": true,
+      "desc": "夜の中城城跡を歩くガイド付きツアー。19:30〜21:00、大人1,500円、定員30名で電話申込制。",
+      "source": "中城村観光協会",
+      "url": "https://www.nakagusuku-jo.jp/xo_event/%e7%ac%ac7%e5%9b%9e-2027%e4%b8%96%e7%95%8c%e9%81%ba%e7%94%a3%e3%83%8a%e3%82%a4%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%af"
+    },
+    {
+      "name": "第8回 2027世界遺産ナイトウォーク",
+      "castle": "中城城",
+      "pref": "沖縄県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "free": false,
+      "resv": true,
+      "desc": "夜の中城城跡を歩くガイド付きツアー。19:30〜21:00、大人1,500円、定員30名で電話申込制。",
+      "source": "中城村観光協会",
+      "url": "https://www.nakagusuku-jo.jp/xo_event/%e7%ac%ac8%e5%9b%9e-2027%e4%b8%96%e7%95%8c%e9%81%ba%e7%94%a3%e3%83%8a%e3%82%a4%e3%83%88%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%af"
+    },
+    {
+      "name": "学芸講座 第6回【展示解説講座】さつまの刀",
+      "castle": "鹿児島城",
+      "pref": "鹿児島県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-01-17",
+      "end": "2027-01-17",
+      "free": false,
+      "resv": true,
+      "desc": "黎明館3階講座室で企画展「さつまの刀」を学芸員が解説。13:30〜15:00、12/11〜12/25に申込。",
+      "source": "鹿児島県歴史・美術センター黎明館",
+      "url": "https://www.pref.kagoshima.jp/reimeikan/gakugeikouza.html"
+    },
+    {
+      "name": "黎明館講演会「家の記録を残す営みー近衞家「家記」の世界」",
+      "castle": "鹿児島城",
+      "pref": "鹿児島県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "free": false,
+      "resv": true,
+      "desc": "黎明館2階講堂で近衞家の記録をテーマにした講演。13:30〜15:00、12/23〜2/3に申込（抽選）。",
+      "source": "鹿児島県歴史・美術センター黎明館",
+      "url": "https://www.pref.kagoshima.jp/reimeikan/r8kouenkaic.html"
+    },
+    {
+      "name": "秋のスペシャルワークショップ「岡城さんぽ」",
+      "castle": "岡城",
+      "pref": "大分県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "free": false,
+      "resv": true,
+      "desc": "由学館に集合し、岡城の大手門から下原門まで歩いて巡る。13:00〜15:30頃、先着15名・電話申込。",
+      "source": "竹田市 由学館",
+      "url": "https://www.city.taketa.oita.jp/bunka_rekishi_kanko/yugakukan/waku/13251.html"
+    },
+    {
+      "name": "安土城築城450年企画ハイキング 信長がひらいた街道をゆく",
+      "castle": "安土城",
+      "pref": "滋賀県",
+      "region": "kinki",
+      "type": "体験",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "free": false,
+      "resv": false,
+      "desc": "近江八幡駅から街道を歩き安土城へ立ち寄るガイド付きハイキング。9:40集合、参加費500円。",
+      "source": "びわこビジターズビューロー",
+      "url": "https://www.biwako-visitors.jp/event/detail/32005/"
+    },
+    {
+      "name": "小田原城天守閣 カラーライトアップ（富野由悠季展PR）",
+      "castle": "小田原城",
+      "pref": "神奈川県",
+      "region": "kanto",
+      "type": "ライトアップ",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "free": true,
+      "resv": false,
+      "desc": "特別展にちなみ天守閣を青・赤・黄の3色で照らす。19:30〜20:30、外から自由に見られる。",
+      "source": "小田原城 公式サイト",
+      "url": "https://odawaracastle.com/news/color-raitoappu1112.html"
     }
   ]
 }
