@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -702,20 +702,6 @@
       "url": "https://nijo-jocastle.city.kyoto.lg.jp/wp-content/themes/nijojo/assets/pdf/introduction/tenji/R08_gengakoukai_J.pdf"
     },
     {
-      "name": "鶴ヶ城プロジェクションマッピング2026",
-      "castle": "会津若松城",
-      "pref": "福島県",
-      "region": "tohoku",
-      "type": "ライトアップ",
-      "start": "2026-11-20",
-      "end": "2026-11-22",
-      "free": true,
-      "resv": false,
-      "desc": "17時30分〜21時、鶴ヶ城天守と石垣に約8分の映像を繰り返し投影。今年は雲海の演出も。",
-      "source": "会津若松市",
-      "url": "https://www.city.aizuwakamatsu.fukushima.jp/docs/2026091400039/"
-    },
-    {
       "name": "大阪城イルミナージュ",
       "castle": "大阪城",
       "pref": "大阪府",
@@ -786,20 +772,6 @@
       "url": "https://www.yoshinogari.jp/event/post-5.html"
     },
     {
-      "name": "親子でつくろう、土粘土教室",
-      "castle": "吉野ケ里",
-      "pref": "佐賀県",
-      "region": "kyushu",
-      "type": "体験",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "free": false,
-      "resv": true,
-      "desc": "西口前で親子が土粘土の作品づくり。午前・午後の2回、1作品1,000円と入園料、要申込。",
-      "source": "吉野ヶ里歴史公園",
-      "url": "https://www.yoshinogari.jp/event/post-oyako-1.html"
-    },
-    {
       "name": "和歌山城 光と幻想の夜",
       "castle": "和歌山城",
       "pref": "和歌山県",
@@ -854,34 +826,6 @@
       "desc": "二ノ丸に飲食の出店が並び、天守などで子ども向け衣装体験も。10時〜19時（21日は21時まで）。",
       "source": "高知城管理事務所",
       "url": "https://kochipark.jp/kochijyo/event/%E9%AB%98%E7%9F%A5%E5%9F%8E%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB/"
-    },
-    {
-      "name": "第6回名護屋城大茶会",
-      "castle": "名護屋城",
-      "pref": "佐賀県",
-      "region": "kyushu",
-      "type": "祭り・パレード",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "free": true,
-      "resv": false,
-      "desc": "名護屋城跡や博物館一帯で茶会、能、鷹狩り実演、石垣ガイドなど。9時30分〜16時30分。一部有料。",
-      "source": "唐津市",
-      "url": "https://www.city.karatsu.lg.jp/page/51480.html"
-    },
-    {
-      "name": "宇和島城特別夜間開城 観月会",
-      "castle": "宇和島城",
-      "pref": "愛媛県",
-      "region": "chugoku-shikoku",
-      "type": "ライトアップ",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "free": false,
-      "resv": true,
-      "desc": "ライトアップした宇和島城で月見と星空観察。17時〜20時頃、1人1,000円、定員30人、要申込。",
-      "source": "宇和島市観光物産協会",
-      "url": "https://www.uwajima.org/news/topics/1118.html"
     },
     {
       "name": "湯築市",
@@ -1092,20 +1036,6 @@
       "desc": "岡山城備前焼工房で、素焼きの未の置物に色を付ける。1体700円、計150体、電話などで予約。",
       "source": "岡山城",
       "url": "https://okayama-castle.jp/5852/"
-    },
-    {
-      "name": "冬に咲くさくらライトアップ",
-      "castle": "弘前城",
-      "pref": "青森県",
-      "region": "tohoku",
-      "type": "ライトアップ",
-      "start": "2026-12-01",
-      "end": "2027-02-28",
-      "free": true,
-      "resv": false,
-      "desc": "弘前公園追手門近くの外濠で、雪の積もった桜の枝を桜色に照らす。日没〜21時30分、観覧無料。",
-      "source": "青森県観光情報サイト Amazing AOMORI",
-      "url": "https://aomori-tourism.com/aomori-hakodate-spot/detail_8176.html"
     },
     {
       "name": "第5回姫路城プレミアムナイトツアー",
@@ -1435,20 +1365,6 @@
       "pref": "長崎県",
       "region": "kyushu",
       "type": "体験",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "free": false,
-      "resv": false,
-      "desc": "夜の天守閣を懐中電灯を手に探検する催し。18:30〜21:00、大人1,000円・小中高生600円。",
-      "source": "島原半島観光連盟",
-      "url": "https://www.shimakanren.com/event/detail_10229.html"
-    },
-    {
-      "name": "島原城 夜の陣",
-      "castle": "島原城",
-      "pref": "長崎県",
-      "region": "kyushu",
-      "type": "体験",
       "start": "2027-01-09",
       "end": "2027-01-10",
       "free": false,
@@ -1652,20 +1568,6 @@
       "desc": "弘前公園内の弘前市立博物館で、江戸後期の旅人・菅江真澄の津軽での足跡を紹介。9時30分〜16時30分。",
       "source": "弘前市",
       "url": "https://www.city.hirosaki.aomori.jp/hakubutsukan/2026-1003-1129.html"
-    },
-    {
-      "name": "第17回 史跡根城・えんぶり公演",
-      "castle": "根城",
-      "pref": "青森県",
-      "region": "tohoku",
-      "type": "祭り・パレード",
-      "start": "2027-02-18",
-      "end": "2027-02-19",
-      "free": false,
-      "resv": false,
-      "desc": "史跡根城の広場の本丸で、八戸の郷土芸能えんぶりを両日11時から披露。本丸の入場料が必要。",
-      "source": "八戸市博物館",
-      "url": "https://hachinohe-city-museum.jp/event/%e5%8f%b2%e8%b7%a1%e6%a0%b9%e5%9f%8e%e3%83%bb%e3%81%88%e3%82%93%e3%81%b6%e3%82%8a%e5%85%ac%e6%bc%94/"
     },
     {
       "name": "企画展「盛岡藩領物産展 －南部ブランドの底力－」",
@@ -2312,20 +2214,6 @@
       "url": "https://www.city.nagoya.jp/houdou/3003942/3003949/3005916.html"
     },
     {
-      "name": "第38回 たかとり城まつり",
-      "castle": "高取城",
-      "pref": "奈良県",
-      "region": "kinki",
-      "type": "祭り・パレード",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "free": false,
-      "resv": false,
-      "desc": "児童公園を主会場に、甲冑武者や大名駕籠の時代行列が城下町を歩く。火縄銃演武や太鼓の披露も。",
-      "source": "高取町観光協会",
-      "url": "https://sightseeing2.takatori.info/38th_shiromatsuri/"
-    },
-    {
       "name": "和歌山城天守閣 夏のパネル展示「藤堂高虎が手掛けた城」",
       "castle": "和歌山城",
       "pref": "和歌山県",
@@ -2396,34 +2284,6 @@
       "url": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1049808.html"
     },
     {
-      "name": "甲冑着付け体験（特別展「猪の目が揃う松江藩の甲冑」関連）",
-      "castle": "松江城",
-      "pref": "島根県",
-      "region": "chugoku-shikoku",
-      "type": "体験",
-      "start": "2026-11-22",
-      "end": "2026-11-22",
-      "free": true,
-      "resv": false,
-      "desc": "特別展の関連企画。松江歴史館の玄関ホールで10〜15時に甲冑を試着できる。申込不要で随時受付。",
-      "source": "松江歴史館",
-      "url": "https://matsu-reki.jp/event/katyu11/"
-    },
-    {
-      "name": "CHIMERA OKAYAMA JAM（岡山城）",
-      "castle": "岡山城",
-      "pref": "岡山県",
-      "region": "chugoku-shikoku",
-      "type": "祭り・パレード",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "free": true,
-      "resv": false,
-      "desc": "岡山城下の段広場でBMXフラットランドの大会や体験会を開催。秋の味覚やマーケットも並ぶ。入場無料。",
-      "source": "岡山県観光連盟",
-      "url": "https://www.okayama-kanko.jp/event/detail_1002989.html"
-    },
-    {
       "name": "TRAVEL in OKAYAMA CASTLE ～Re:valeとめぐる、晴レの国～",
       "castle": "岡山城",
       "pref": "岡山県",
@@ -2436,20 +2296,6 @@
       "desc": "再建60周年企画でRe:valeが期間限定の特別サポーターに。スタンプラリーやグッズ販売を予定、詳細は後日発表。",
       "source": "岡山城公式ウェブサイト",
       "url": "https://okayama-castle.jp/5876/"
-    },
-    {
-      "name": "備中松山城におもてなし隊が出動",
-      "castle": "備中松山城",
-      "pref": "岡山県",
-      "region": "chugoku-shikoku",
-      "type": "体験",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "free": false,
-      "resv": false,
-      "desc": "10〜14時に二ノ丸広場で、大人は甲冑、子どもは兜と陣羽織を着て記念撮影ができる。体験料500円。",
-      "source": "高梁市観光協会",
-      "url": "https://takahasikanko.or.jp/modules/event/index.php?content_id=502"
     },
     {
       "name": "備中たかはし重ね捺しスタンプラリー～城下町さんぽ～",
@@ -2786,6 +2632,76 @@
       "desc": "特別展にちなみ天守閣を青・赤・黄の3色で照らす。19:30〜20:30、外から自由に見られる。",
       "source": "小田原城 公式サイト",
       "url": "https://odawaracastle.com/news/color-raitoappu1112.html"
+    },
+    {
+      "name": "企画展2「かくは宮川 ―昭和を彩る弘前の百貨店―」",
+      "castle": "弘前城",
+      "pref": "青森県",
+      "region": "tohoku",
+      "type": "展示",
+      "start": "2027-01-09",
+      "end": "2027-03-07",
+      "free": false,
+      "resv": false,
+      "desc": "弘前公園内の市立博物館で、昭和の弘前で親しまれた百貨店「かくは宮川」の歩みをたどる企画展。",
+      "source": "弘前市立博物館（令和8年度年間案内）",
+      "url": "https://city.hirosaki.aomori.jp/hakubutsukan/R8nenkanannai.pdf"
+    },
+    {
+      "name": "令和8年熊本地震 心の復興事業「熊本城 ～復興の歩みと共に～」",
+      "castle": "熊本城",
+      "pref": "熊本県",
+      "region": "kyushu",
+      "type": "体験",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "free": true,
+      "resv": false,
+      "desc": "12/19・20の9〜17時に熊本城を無料開放。VR体験や木札の焼き印、ぐり石へのメッセージ書きを当日先着で。",
+      "source": "熊本市公式サイト",
+      "url": "https://www.city.kumamoto.jp/kiji00373712/index.html"
+    },
+    {
+      "name": "寛永行幸四百年祭 寛永行幸再現行列",
+      "castle": "二条城",
+      "pref": "京都府",
+      "region": "kinki",
+      "type": "祭り・パレード",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "free": false,
+      "resv": false,
+      "desc": "12/6、時代装束の約330人が京都御苑から約3kmを歩き、14時半頃に二条城東大手門へ到着する再現行列。",
+      "source": "京都府（寛永行幸四百年祭）",
+      "url": "https://www.pref.kyoto.jp/kaneigyoko/entrystart.html"
+    },
+    {
+      "name": "ミニ展示「伊賀衆から伊賀者へ-集団から個人への移り変わり-」（前期）",
+      "castle": "伊賀上野城",
+      "pref": "三重県",
+      "region": "kinki",
+      "type": "展示",
+      "start": "2026-10-10",
+      "end": "2027-01-24",
+      "free": false,
+      "resv": false,
+      "desc": "城跡の上野公園にある伊賀流忍者博物館で、伊賀衆が藤堂藩の伊賀者となる過程を紹介。前期は大坂の陣の旗も。",
+      "source": "観光三重（三重県観光連盟）",
+      "url": "https://www.kankomie.or.jp/event/43986"
+    },
+    {
+      "name": "とっとりの藩と城 歴史・自然史・美術工芸【第9期】",
+      "castle": "鳥取城",
+      "pref": "鳥取県",
+      "region": "chugoku-shikoku",
+      "type": "展示",
+      "start": "2026-10-07",
+      "end": "2026-12-06",
+      "free": false,
+      "resv": false,
+      "desc": "鳥取城跡の県立博物館で、藩政資料や池田家の大名道具、久松山の自然史資料を紹介。一般180円。",
+      "source": "鳥取県立博物館（鳥取県）",
+      "url": "https://www.pref.tottori.lg.jp/hantosiro9/"
     }
   ]
 }
