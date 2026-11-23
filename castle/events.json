@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -14,20 +14,6 @@
       "desc": "天守4階で、近年収蔵した絵画や藩の古文書、道中図など11点を紹介するテーマ展示。",
       "source": "今治市（今治城）",
       "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/event/event.html?p=1947"
-    },
-    {
-      "name": "収蔵品展「今治が育んだ作家たち」",
-      "castle": "今治城",
-      "pref": "愛媛県",
-      "region": "chugoku-shikoku",
-      "type": "展示",
-      "start": "2026-03-13",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "御金櫓で、今治ゆかりの近現代の作家の作品を所蔵品から紹介する展示。観覧券が必要。",
-      "source": "今治市（今治城）",
-      "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/event/event.html?p=1976"
     },
     {
       "name": "広島城周遊謎解きゲーム「鯉城に眠る古文書の謎」",
@@ -114,20 +100,6 @@
       "url": "https://okazaki-kanko.jp/okazaki-park/program/5242"
     },
     {
-      "name": "【期間限定】国宝松江城天守祈祷札、槍、玉石の実物展示",
-      "castle": "松江城",
-      "pref": "島根県",
-      "region": "chugoku-shikoku",
-      "type": "展示",
-      "start": "2026-09-15",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "松江歴史館の基本展示室で、天守完成時期を示す国宝の祈祷札と築城時の槍・玉石の実物を公開。",
-      "source": "松江歴史館",
-      "url": "https://matsu-reki.jp/exhibition/kitoufuda/"
-    },
-    {
       "name": "特別展「藤堂高虎と高吉 ―豊臣秀長との絆と今治に刻んだ足跡―」",
       "castle": "今治城",
       "pref": "愛媛県",
@@ -140,20 +112,6 @@
       "desc": "山里櫓で、築城者の藤堂高虎と養子高吉の歩みを豊臣秀長との関わりから紹介。観覧券が必要。",
       "source": "今治市（今治城）",
       "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/event/event.html?p=2053"
-    },
-    {
-      "name": "名古屋城秋まつり",
-      "castle": "名古屋城",
-      "pref": "愛知県",
-      "region": "chubu",
-      "type": "祭り・パレード",
-      "start": "2026-09-19",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "西の丸の大道芸や猿まわしなど。11/15は二の丸広場で火縄銃の実演。入場料が必要。",
-      "source": "名古屋城 公式サイト",
-      "url": "https://www.nagoyajo.city.nagoya.jp/nagoya-jo_interactive/fes2026-2027/autumn/"
     },
     {
       "name": "コーナー展示「岡山城再建60周年！ いただきもの・あずかりもの」パート②",
@@ -310,20 +268,6 @@
       "url": "https://nazoxnazo.com/event/osakajo_hideyoshi/"
     },
     {
-      "name": "福山城博物館秋季特別展「福山刀剣物語」",
-      "castle": "福山城",
-      "pref": "広島県",
-      "region": "chugoku-shikoku",
-      "type": "展示",
-      "start": "2026-10-03",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "福山城博物館で鎌倉期から現代までの刀剣42口を展示し、備後の刀工の系譜をたどる特別展。",
-      "source": "福山城博物館",
-      "url": "https://fukuyamajo.jp/event/4209/"
-    },
-    {
       "name": "史跡指定100周年記念企画展「名護屋城阯竝陣阯」",
       "castle": "名護屋城",
       "pref": "佐賀県",
@@ -364,34 +308,6 @@
       "desc": "丸亀市立資料館で、支藩・多度津藩ゆかりの品と家老林家の資料を紹介。11月22日に学芸員の解説あり。",
       "source": "丸亀市",
       "url": "https://www.city.marugame.lg.jp/page/45697.html"
-    },
-    {
-      "name": "特別展「戦国のきょうだい」",
-      "castle": "大阪城",
-      "pref": "大阪府",
-      "region": "kinki",
-      "type": "展示",
-      "start": "2026-10-10",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "大阪城天守閣3・4階で、戦国時代の兄弟姉妹の関係に注目した展示。天守閣入館料で見られる。",
-      "source": "大阪城天守閣",
-      "url": "https://www.osakacastle.net/exhibition/specials/detail.html?id=186"
-    },
-    {
-      "name": "特別展「蜂須賀正勝」",
-      "castle": "徳島城",
-      "pref": "徳島県",
-      "region": "chugoku-shikoku",
-      "type": "展示",
-      "start": "2026-10-10",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "徳島藩祖・蜂須賀家政の父、蜂須賀正勝（小六）を取り上げる徳島城博物館の特別展。",
-      "source": "徳島市（徳島城博物館）",
-      "url": "https://www.city.tokushima.tokushima.jp/johaku/tokubetsutenji/index.html"
     },
     {
       "name": "甲冑揃い踏み展",
@@ -476,34 +392,6 @@
       "desc": "彦根城博物館で、彦根藩の御用絵師・佐竹永海の作品を紹介。観覧は有料。",
       "source": "彦根城博物館",
       "url": "https://hikone-castle-museum.jp/exhibition/21388.html"
-    },
-    {
-      "name": "津和野城跡リフト 早朝運行",
-      "castle": "津和野城",
-      "pref": "島根県",
-      "region": "chugoku-shikoku",
-      "type": "体験",
-      "start": "2026-10-24",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "雲海と紅葉の季節の土日祝、城跡へ上る観光リフトを朝7時から運行。往復大人700円、予約不要。",
-      "source": "津和野町観光協会",
-      "url": "https://tsuwano-kanko.net/2026autumn-lift/"
-    },
-    {
-      "name": "第71回高松市菊花展競技会",
-      "castle": "高松城",
-      "pref": "香川県",
-      "region": "chugoku-shikoku",
-      "type": "展示",
-      "start": "2026-10-24",
-      "end": "2026-11-23",
-      "free": true,
-      "resv": false,
-      "desc": "玉藻公園内で大菊の作品や花壇、盆養などを展示。8時30分〜17時。入園料（一般300円）が別途必要。",
-      "source": "高松市",
-      "url": "https://www.city.takamatsu.kagawa.jp/kurashi/kurashi/shisetsu/park/tamamo/kikkaten.html"
     },
     {
       "name": "チームラボ 福岡城跡 光ノ祭 2026-2027",
@@ -646,20 +534,6 @@
       "url": "https://www.city.hikone.lg.jp/kakuka/kanko_bunka/2/2/25353.html"
     },
     {
-      "name": "津山城もみじまつり",
-      "castle": "津山城",
-      "pref": "岡山県",
-      "region": "chugoku-shikoku",
-      "type": "祭り・パレード",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "鶴山公園で華道展示や17〜21時のライトアップ、グルメ、ステージ、限定御城印の販売などを実施。",
-      "source": "岡山県観光連盟",
-      "url": "https://www.okayama-kanko.jp/event/detail_12741.html"
-    },
-    {
       "name": "花江茶亭 呈茶席",
       "castle": "萩城",
       "pref": "山口県",
@@ -758,20 +632,6 @@
       "url": "https://okayama-castle.jp/5898/"
     },
     {
-      "name": "ヒンメリづくり",
-      "castle": "吉野ケ里",
-      "pref": "佐賀県",
-      "region": "kyushu",
-      "type": "体験",
-      "start": "2026-11-21",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": true,
-      "desc": "園内産の麦わらで飾りのヒンメリを作る。古代の森体験館で10時と13時30分、300円、各回10人。",
-      "source": "吉野ヶ里歴史公園",
-      "url": "https://www.yoshinogari.jp/event/post-5.html"
-    },
-    {
       "name": "和歌山城 光と幻想の夜",
       "castle": "和歌山城",
       "pref": "和歌山県",
@@ -786,20 +646,6 @@
       "url": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1065599.html"
     },
     {
-      "name": "牛魔王 秋の陣",
-      "castle": "津山城",
-      "pref": "岡山県",
-      "region": "chugoku-shikoku",
-      "type": "グルメ・物産",
-      "start": "2026-11-21",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "もみじまつり期間中の10〜15時、城内つるまる広場に津山の牛肉料理を味わえるブースが並ぶ。",
-      "source": "岡山県観光連盟",
-      "url": "https://www.okayama-kanko.jp/event/detail_101592.html"
-    },
-    {
       "name": "館蔵品展「新資料展」",
       "castle": "高岡城",
       "pref": "富山県",
@@ -812,48 +658,6 @@
       "desc": "古城公園内の高岡市立博物館で開催。高岡城築城の許可に関わる徳川秀忠の書状などを紹介。",
       "source": "高岡市立博物館",
       "url": "https://www.e-tmm.info/nenkan2026.htm"
-    },
-    {
-      "name": "高知城オータムフェスティバル",
-      "castle": "高知城",
-      "pref": "高知県",
-      "region": "chugoku-shikoku",
-      "type": "グルメ・物産",
-      "start": "2026-11-21",
-      "end": "2026-11-23",
-      "free": true,
-      "resv": false,
-      "desc": "二ノ丸に飲食の出店が並び、天守などで子ども向け衣装体験も。10時〜19時（21日は21時まで）。",
-      "source": "高知城管理事務所",
-      "url": "https://kochipark.jp/kochijyo/event/%E9%AB%98%E7%9F%A5%E5%9F%8E%E3%82%AA%E3%83%BC%E3%82%BF%E3%83%A0%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB/"
-    },
-    {
-      "name": "湯築市",
-      "castle": "湯築城",
-      "pref": "愛媛県",
-      "region": "chugoku-shikoku",
-      "type": "グルメ・物産",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "道後公園で開かれるマルシェ。10時〜15時の予定で、みどりの相談コーナーも同日に出る。",
-      "source": "道後公園（湯築城資料館）",
-      "url": "https://dogokouen.jp/11-3%e3%80%80%e6%b9%af%e7%af%89%e5%b8%82%e4%b8%ad%e6%ad%a2/"
-    },
-    {
-      "name": "首里城正殿 一般公開開始",
-      "castle": "首里城",
-      "pref": "沖縄県",
-      "region": "kyushu",
-      "type": "展示",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": true,
-      "desc": "再建された首里城正殿の一般公開が11/23に開始。正殿内は30分ごとの日時指定予約制、大人1,000円。",
-      "source": "沖縄美ら島財団",
-      "url": "https://oki-park.jp/shurijo/information/detail/11164"
     },
     {
       "name": "冬季企画展『新収蔵品展』",
@@ -1061,7 +865,7 @@
       "end": "2026-12-05",
       "free": false,
       "resv": true,
-      "desc": "閉館後の天守最上階で初のチェロ演奏会。18時開演、4,000円（入館料込み）、約30席。",
+      "desc": "閉館後の天守最上階で初のチェロ演奏会。18時開演、4,000円（入館料込み）。定員に達し完売。",
       "source": "小田原城",
       "url": "https://odawaracastle.com/news/concert2026.html"
     },
@@ -1710,62 +1514,6 @@
       "url": "https://www.yamagata-museum.jp/exhibition/4712"
     },
     {
-      "name": "第70回 二本松の菊人形〈豊臣家の絆と丹羽家の誇り〉",
-      "castle": "二本松城",
-      "pref": "福島県",
-      "region": "tohoku",
-      "type": "展示",
-      "start": "2026-10-10",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "霞ヶ城公園で70回目の菊人形展。9時〜16時、大人1,000円、中学生以下無料。",
-      "source": "二本松観光協会",
-      "url": "https://www.nihonmatsu-kanko.jp/?p=11716"
-    },
-    {
-      "name": "霞ヶ城公園 秋のライトアップ",
-      "castle": "二本松城",
-      "pref": "福島県",
-      "region": "tohoku",
-      "type": "ライトアップ",
-      "start": "2026-10-03",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "霞ヶ城公園の日本庭園エリアと箕輪門通りの石垣を16時30分〜21時に照らす。",
-      "source": "二本松市",
-      "url": "https://www.city.nihonmatsu.lg.jp/kurashi_tetsuduki/jyutaku_kouen/kouen/page011331.html"
-    },
-    {
-      "name": "高村智恵子生誕140年記念特別企画展「智恵子の芸術」",
-      "castle": "二本松城",
-      "pref": "福島県",
-      "region": "tohoku",
-      "type": "展示",
-      "start": "2026-10-03",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "城のふもとのにほんまつ城報館1階で、智恵子の作品を紹介。9時〜17時、一般200円。",
-      "source": "二本松市",
-      "url": "https://www.city.nihonmatsu.lg.jp/johokan/event_kikaku/page012817.html"
-    },
-    {
-      "name": "足利灯り物語2026",
-      "castle": "足利氏館（鑁阿寺）",
-      "pref": "栃木県",
-      "region": "kanto",
-      "type": "ライトアップ",
-      "start": "2026-11-14",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "17時〜20時、鑁阿寺の大イチョウや多宝塔を照らし、足利学校・織姫神社と巡る。共通券600円。",
-      "source": "足利市観光協会",
-      "url": "https://www.ashikaga-kankou.jp/event/detail/akari2025"
-    },
-    {
       "name": "第131回記念水戸の梅まつり",
       "castle": "水戸城（弘道館）",
       "pref": "茨城県",
@@ -1906,20 +1654,6 @@
       "url": "https://www.kunaicho.go.jp/event/nazotoki/nazotoki.html"
     },
     {
-      "name": "第92回（2026年）甲府えびす講祭り",
-      "castle": "甲府城",
-      "pref": "山梨県",
-      "region": "chubu",
-      "type": "祭り・パレード",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "舞鶴城公園など甲府市中心部が会場。ステージ、ご当地グルメ、パレード、おみこしなど。",
-      "source": "甲府市観光協会",
-      "url": "https://kofu-tourism.com/event/index.php?p=72"
-    },
-    {
       "name": "門松飾り・すす払い・しめ縄飾り",
       "castle": "松本城",
       "pref": "長野県",
@@ -1960,20 +1694,6 @@
       "desc": "真田宝物館で旧松代小学校伝来の雅楽資料や真田家伝来の楽器を紹介する。",
       "source": "真田宝物館",
       "url": "https://www.sanadahoumotsukan.com/up_images/eve/eve_4c7984f6.pdf"
-    },
-    {
-      "name": "小諸城址懐古園☆紅葉(もみじ)まつり2026",
-      "castle": "小諸城",
-      "pref": "長野県",
-      "region": "chubu",
-      "type": "祭り・パレード",
-      "start": "2026-10-24",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": false,
-      "desc": "懐古園の紅葉シーズンに合わせた催し。もみじ谷周辺でライトアップも行う。",
-      "source": "小諸市 懐古園",
-      "url": "https://www.city.komoro.lg.jp/kaikoen/event/7507.html"
     },
     {
       "name": "「世界遺産 二条城の早春」事業",
@@ -2592,20 +2312,6 @@
       "url": "https://www.pref.kagoshima.jp/reimeikan/r8kouenkaic.html"
     },
     {
-      "name": "秋のスペシャルワークショップ「岡城さんぽ」",
-      "castle": "岡城",
-      "pref": "大分県",
-      "region": "kyushu",
-      "type": "体験",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "free": false,
-      "resv": true,
-      "desc": "由学館に集合し、岡城の大手門から下原門まで歩いて巡る。13:00〜15:30頃、先着15名・電話申込。",
-      "source": "竹田市 由学館",
-      "url": "https://www.city.taketa.oita.jp/bunka_rekishi_kanko/yugakukan/waku/13251.html"
-    },
-    {
       "name": "安土城築城450年企画ハイキング 信長がひらいた街道をゆく",
       "castle": "安土城",
       "pref": "滋賀県",
@@ -2702,6 +2408,188 @@
       "desc": "鳥取城跡の県立博物館で、藩政資料や池田家の大名道具、久松山の自然史資料を紹介。一般180円。",
       "source": "鳥取県立博物館（鳥取県）",
       "url": "https://www.pref.tottori.lg.jp/hantosiro9/"
+    },
+    {
+      "name": "国宝松本城ライトアップ（女性に対する暴力撤廃国際日）",
+      "castle": "松本城",
+      "pref": "長野県",
+      "region": "chubu",
+      "type": "ライトアップ",
+      "start": "2026-11-25",
+      "end": "2026-11-25",
+      "free": true,
+      "resv": false,
+      "desc": "女性への暴力撤廃国際日に合わせ、17時〜22時に天守をオレンジ色に照らす。屋外から見られる。",
+      "source": "松本城管理事務所",
+      "url": "https://www.matsumoto-castle.jp/topics/8725.html"
+    },
+    {
+      "name": "国宝松本城ライトアップ（患者安全週間）",
+      "castle": "松本城",
+      "pref": "長野県",
+      "region": "chubu",
+      "type": "ライトアップ",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "free": true,
+      "resv": false,
+      "desc": "患者安全週間に合わせ、17時〜21時に天守をオレンジ色に点灯する。城の外から眺められる。",
+      "source": "松本城管理事務所",
+      "url": "https://www.matsumoto-castle.jp/topics/8725.html"
+    },
+    {
+      "name": "小田原城天守閣カラーライトアップ（小田原市制記念日）",
+      "castle": "小田原城",
+      "pref": "神奈川県",
+      "region": "kanto",
+      "type": "ライトアップ",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "free": true,
+      "resv": false,
+      "desc": "市制記念日に合わせ、天守閣を青色に照らす特別点灯。19時30分頃から約1時間、外から見られる。",
+      "source": "小田原城",
+      "url": "https://odawaracastle.com/news/color-raitoappu1112.html"
+    },
+    {
+      "name": "第34回「むかしの勉強・むかしの遊び」展",
+      "castle": "川越城",
+      "pref": "埼玉県",
+      "region": "kanto",
+      "type": "展示",
+      "start": "2026-12-19",
+      "end": "2027-02-28",
+      "free": false,
+      "resv": false,
+      "desc": "川越市立博物館の冬の恒例展で、昔の学びと遊びがテーマ。一般200円・中学生以下無料、月曜休館。",
+      "source": "川越市立博物館",
+      "url": "https://www.city.kawagoe.saitama.jp/museum/1013715/1015163.html"
+    },
+    {
+      "name": "大人体験教室「まが玉作り教室」",
+      "castle": "川越城",
+      "pref": "埼玉県",
+      "region": "kanto",
+      "type": "体験",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "free": false,
+      "resv": true,
+      "desc": "博物館の体験学習室で勾玉づくり。午前・午後各20人、100円。高校生以上対象、1/11締切の抽選制。",
+      "source": "川越市立博物館",
+      "url": "https://www.city.kawagoe.saitama.jp/museum/1013715/1017688.html"
+    },
+    {
+      "name": "くらしの植物苑特別企画「伝統の古典菊」",
+      "castle": "佐倉城",
+      "pref": "千葉県",
+      "region": "kanto",
+      "type": "展示",
+      "start": "2026-11-03",
+      "end": "2026-11-29",
+      "free": false,
+      "resv": false,
+      "desc": "歴博くらしの植物苑で古典菊を展示。9:30〜16:30、入苑200円・高校生以下無料。",
+      "source": "国立歴史民俗博物館",
+      "url": "https://www.rekihaku.ac.jp/event/2026_plant_kikaku_kiku.html"
+    },
+    {
+      "name": "第326回 観察会「菊の栽培書を読むー菊の防虫対策ー」",
+      "castle": "佐倉城",
+      "pref": "千葉県",
+      "region": "kanto",
+      "type": "体験",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "free": false,
+      "resv": false,
+      "desc": "歴博ガイダンスルームで江戸期の菊の栽培書から防虫法を読み解く。13:30〜15:30、先着90人。",
+      "source": "国立歴史民俗博物館",
+      "url": "https://www.rekihaku.ac.jp/event/2026_plant_kikaku_kiku.html"
+    },
+    {
+      "name": "岡崎城公園～光結び～",
+      "castle": "岡崎城",
+      "pref": "愛知県",
+      "region": "chubu",
+      "type": "ライトアップ",
+      "start": "2026-12-05",
+      "end": "2026-12-26",
+      "free": false,
+      "resv": false,
+      "desc": "浄瑠璃姫の物語をテーマにした竹灯りを園内約10か所に設置。毎日17時〜20時に点灯。",
+      "source": "岡崎市観光協会",
+      "url": "https://okazaki-kanko.jp/feature/iyeyasuko-seitangekkan/top"
+    },
+    {
+      "name": "家康公生誕月間「全国武将サミット2026～葵武将隊のみなさんのおかげです～」",
+      "castle": "岡崎城",
+      "pref": "愛知県",
+      "region": "chubu",
+      "type": "祭り・パレード",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "free": true,
+      "resv": false,
+      "desc": "全国10の武将隊が二の丸能楽堂で演武し、広場には物販やキッチンカーも。10〜17時、観覧無料。",
+      "source": "岡崎市",
+      "url": "https://www.city.okazaki.lg.jp/kanko/event/1009636/1016952.html"
+    },
+    {
+      "name": "家康公生誕祭",
+      "castle": "岡崎城",
+      "pref": "愛知県",
+      "region": "chubu",
+      "type": "祭り・パレード",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "free": false,
+      "resv": false,
+      "desc": "家康の誕生日に岡崎城公園で行う記念行事。13時〜17時30分、夜は乙川河川緑地で花火も。",
+      "source": "岡崎市観光協会",
+      "url": "https://okazaki-kanko.jp/feature/iyeyasuko-seitangekkan/top"
+    },
+    {
+      "name": "冬に咲くさくらライトアップ",
+      "castle": "弘前城",
+      "pref": "青森県",
+      "region": "tohoku",
+      "type": "ライトアップ",
+      "start": "2026-12-01",
+      "end": "2027-02-28",
+      "free": true,
+      "resv": false,
+      "desc": "弘前公園追手門付近の外濠で、雪の積もった桜の枝を桜色に照らす。日没〜21時30分、無料。",
+      "source": "青森県観光国際交流機構",
+      "url": "https://aomori-tourism.com/event/detail_8176.html"
+    },
+    {
+      "name": "特別陳列Ⅴ「豊臣の城3 坂本城と大津城」",
+      "castle": "安土城",
+      "pref": "滋賀県",
+      "region": "kinki",
+      "type": "展示",
+      "start": "2026-10-10",
+      "end": "2026-12-27",
+      "free": false,
+      "resv": false,
+      "desc": "安土城考古博物館で豊臣期の坂本城と大津城を紹介。9〜17時、月曜休館、入館料が必要。",
+      "source": "滋賀県立安土城考古博物館",
+      "url": "https://azuchi-museum.or.jp/"
+    },
+    {
+      "name": "姫路城下町マラソン",
+      "castle": "姫路城",
+      "pref": "兵庫県",
+      "region": "kinki",
+      "type": "体験",
+      "start": "2027-02-28",
+      "end": "2027-02-28",
+      "free": false,
+      "resv": true,
+      "desc": "姫路城の周辺を走る市民マラソン。1〜5kmの部門があり9時スタート。参加費1,500円〜、1/8締切。",
+      "source": "姫路市",
+      "url": "https://www.city.himeji.lg.jp/kanko/0000034419.html"
     }
   ]
 }
