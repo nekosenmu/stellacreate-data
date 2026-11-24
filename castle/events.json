@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -473,9 +473,9 @@
       "end": "2026-11-29",
       "free": true,
       "resv": false,
-      "desc": "土日の夜に金沢城公園と兼六園を照らす。11/14・15・21・22・28・29開催、無料開放。",
+      "desc": "土日の夜18〜21時に金沢城公園と兼六園を照らし、無料開放。残りは11/28・29。",
       "source": "ほっと石川旅ねっと（石川県観光連盟）",
-      "url": "https://www.hot-ishikawa.jp/event/detail_21201.html"
+      "url": "https://www.hot-ishikawa.jp/event/detail_22163.html"
     },
     {
       "name": "第5回道後公園野外アート展「アートは宇宙だ」",
@@ -1733,7 +1733,7 @@
       "end": "2027-02-28",
       "free": false,
       "resv": false,
-      "desc": "金華山麓の岐阜公園と正法寺を和傘などの灯りで演出。17:30〜21時、大人1,100円〜。",
+      "desc": "金華山麓の岐阜公園と正法寺を和傘などの灯りで演出。17:30〜21時、大人1,200円（土日祝1,400円）。",
       "source": "岐阜県観光公式サイト",
       "url": "https://www.kankou-gifu.jp/event/detail_9313.html"
     },
@@ -1794,7 +1794,7 @@
       "url": "https://www.takaoka.or.jp/event/detail_4379.html"
     },
     {
-      "name": "郷土学習講座 第3回（高岡城と前田家の城）",
+      "name": "郷土学習講座 第3講「高岡城を中心とした前田氏城郭について」",
       "castle": "高岡城",
       "pref": "富山県",
       "region": "chubu",
@@ -1803,7 +1803,7 @@
       "end": "2026-12-19",
       "free": false,
       "resv": true,
-      "desc": "古城公園内の市立博物館で、高岡城と北陸の前田家の城を比べる講座。14時から、500円、先着60名。",
+      "desc": "古城公園内の市立博物館で、高岡城と前田家の城を比べる講座。14時から、500円、先着60名（11/28受付開始）。",
       "source": "高岡市立博物館",
       "url": "https://www.e-tmm.info/nenkan2026.htm"
     },
@@ -1827,11 +1827,11 @@
       "pref": "福井県",
       "region": "chubu",
       "type": "体験",
-      "start": "2026-11-21",
+      "start": "2026-12-12",
       "end": "2026-12-12",
       "free": false,
       "resv": false,
-      "desc": "唐門前から復原町並まで馬が歩く催し。開催は11/21・22と12/12。唐門前でエサやり体験（先着）も。",
+      "desc": "唐門前から復原町並まで馬が歩く。11/21・22は雨で延期し12/12に開催。10時からエサやり体験（先着20名）。",
       "source": "福いろ（福井市公式観光サイト）",
       "url": "https://fuku-iro.jp/event/detail_13988.html"
     },
@@ -2111,9 +2111,9 @@
       "end": "2026-12-20",
       "free": false,
       "resv": false,
-      "desc": "駿府城公園の紅葉山庭園前広場で開くクリスマスマーケット。20時半から参加者がランタンを一斉に灯す。",
-      "source": "Wonderful Christmasとランタンナイト実行委員会",
-      "url": "https://prtimes.jp/main/html/rd/p/000000242.000101362.html"
+      "desc": "紅葉山庭園前広場のクリスマスマーケット。入場500円（前売450円）、20時半から参加者がランタンを灯す。",
+      "source": "Wonderful Christmas と ランタンナイト SHIZUOKA 公式サイト",
+      "url": "https://xmas-shizuoka.jp/"
     },
     {
       "name": "松山城ふるさと講座",
@@ -2590,6 +2590,146 @@
       "desc": "姫路城の周辺を走る市民マラソン。1〜5kmの部門があり9時スタート。参加費1,500円〜、1/8締切。",
       "source": "姫路市",
       "url": "https://www.city.himeji.lg.jp/kanko/0000034419.html"
+    },
+    {
+      "name": "常設展 お宝コーナー③「利長・右近の師　千利休書状」",
+      "castle": "高岡城",
+      "pref": "富山県",
+      "region": "chubu",
+      "type": "展示",
+      "start": "2026-10-17",
+      "end": "2026-12-20",
+      "free": true,
+      "resv": false,
+      "desc": "古城公園内の市立博物館の常設展で、千利休が榊原康政に宛てた書状を紹介。入館無料、月曜休館。",
+      "source": "高岡市立博物館",
+      "url": "https://www.e-tmm.info/nenkan2026.htm"
+    },
+    {
+      "name": "館蔵品展「昔の道具とくらし」展示説明会",
+      "castle": "高岡城",
+      "pref": "富山県",
+      "region": "chubu",
+      "type": "体験",
+      "start": "2027-02-06",
+      "end": "2027-02-06",
+      "free": true,
+      "resv": false,
+      "desc": "市立博物館で学芸員が館蔵品展「昔の道具とくらし」を解説。14時〜14時30分、無料、申込不要。",
+      "source": "高岡市立博物館",
+      "url": "https://www.e-tmm.info/nenkan2026.htm"
+    },
+    {
+      "name": "Gifu Night View（秋期）",
+      "castle": "岐阜城",
+      "pref": "岐阜県",
+      "region": "chubu",
+      "type": "ライトアップ",
+      "start": "2026-10-02",
+      "end": "2026-11-29",
+      "free": true,
+      "resv": false,
+      "desc": "金・土・日・祝の夜に金華山展望台から夜景を楽しめる。土日は光の演出も。ロープウェー代は別。",
+      "source": "岐阜観光コンベンション協会",
+      "url": "https://www.gifucvb.or.jp/event/detail_autumn.php?eid=00160&calendar_keisai=1"
+    },
+    {
+      "name": "紅葉山庭園「新春のランチ会」",
+      "castle": "駿府城",
+      "pref": "静岡県",
+      "region": "chubu",
+      "type": "グルメ・物産",
+      "start": "2027-01-09",
+      "end": "2027-01-10",
+      "free": false,
+      "resv": true,
+      "desc": "紅葉山庭園の茶室で日替わりの弁当を味わう昼食会。12時から、4,000円、32名を抽選（12/20締切）。",
+      "source": "駿府城公園",
+      "url": "https://sumpu-castlepark.com/info/archives/3567"
+    },
+    {
+      "name": "館蔵品展「郷土ゆかりの作家たち ～新収蔵 脇淳桂の作品を中心に～」",
+      "castle": "今治城",
+      "pref": "愛媛県",
+      "region": "chugoku-shikoku",
+      "type": "展示",
+      "start": "2026-11-27",
+      "end": "2027-03-31",
+      "free": false,
+      "resv": false,
+      "desc": "御金櫓で今治ゆかりの作家の作品を展示。新たに寄贈された脇淳桂の絵画を初公開。入城料が必要。",
+      "source": "今治市（今治城）",
+      "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/event/event.html?p=2106"
+    },
+    {
+      "name": "けやきライトパレード 2026",
+      "castle": "和歌山城",
+      "pref": "和歌山県",
+      "region": "kinki",
+      "type": "ライトアップ",
+      "start": "2026-11-21",
+      "end": "2027-02-28",
+      "free": true,
+      "resv": false,
+      "desc": "和歌山駅から和歌山城を経て市駅へ続く約3.5kmのけやき並木を電球で飾るイルミネーション。",
+      "source": "和歌山城 公式サイト",
+      "url": "https://wakayamajo.jp/info/2012/"
+    },
+    {
+      "name": "お城でクリスマス in 広島城三の丸",
+      "castle": "広島城",
+      "pref": "広島県",
+      "region": "chugoku-shikoku",
+      "type": "グルメ・物産",
+      "start": "2026-12-04",
+      "end": "2026-12-25",
+      "free": true,
+      "resv": false,
+      "desc": "三の丸にクリスマスの屋台とツリー。12/4〜6・12〜13・19〜20・24・25に開催。飲食は有料。",
+      "source": "広島城三の丸 公式サイト",
+      "url": "https://sannomaru.hiroshimacastle.jp/911/"
+    },
+    {
+      "name": "彦根城博物館の歩み―展覧会を彩ったポスター総覧―",
+      "castle": "彦根城",
+      "pref": "滋賀県",
+      "region": "kinki",
+      "type": "展示",
+      "start": "2027-01-15",
+      "end": "2027-03-15",
+      "free": false,
+      "resv": false,
+      "desc": "開館40周年の企画で、彦根城博物館の歴代展覧会のポスターを並べる。博物館の入館料が必要。",
+      "source": "彦根城博物館",
+      "url": "https://hikone-castle-museum.jp/news/18104.html"
+    },
+    {
+      "name": "第27回 佐賀城下ひなまつり",
+      "castle": "佐賀城",
+      "pref": "佐賀県",
+      "region": "kyushu",
+      "type": "展示",
+      "start": "2027-02-13",
+      "end": "2027-03-14",
+      "free": false,
+      "resv": false,
+      "desc": "佐賀城本丸歴史館など旧城下の各会場でひな人形を展示。テーマは「花めぐり」、共通券1,000円。",
+      "source": "佐賀城下ひなまつり実行委員会",
+      "url": "https://saga-hinamatsuri.jp/"
+    },
+    {
+      "name": "松山城ふるさと講座",
+      "castle": "松山城",
+      "pref": "愛媛県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "free": false,
+      "resv": false,
+      "desc": "ロープウェイ駅舎2階の会議室で郷土の歴史を学ぶ講座。13時30分〜14時30分、予約不要で出入り自由。",
+      "source": "松山城 公式サイト",
+      "url": "https://www.matsuyamajo.jp/event/12-2.html"
     }
   ]
 }
