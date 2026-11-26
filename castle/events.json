@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "events": [
     {
       "name": "天守4階テーマ展示「新収蔵品展」",
@@ -670,8 +670,8 @@
       "free": false,
       "resv": false,
       "desc": "福山城博物館が新しく収蔵した資料をまとめて紹介する冬の企画展。9〜17時、月曜休館。",
-      "source": "福山城博物館",
-      "url": "https://fukuyamajo.jp/event/3003/"
+      "source": "福山市",
+      "url": "https://www.city.fukuyama.hiroshima.jp/koho-detail02/koho-202611/412681.html"
     },
     {
       "name": "佐賀城本丸御殿\"奥\"エリア 知ろうウィーク！",
@@ -2028,8 +2028,8 @@
       "free": false,
       "resv": false,
       "desc": "備中松山城や武家屋敷など5か所で色違いのスタンプを重ねて押し、絵が完成すると猫城主のクリアファイルがもらえる。",
-      "source": "高梁市観光協会",
-      "url": "https://takahasikanko.or.jp/modules/event/index.php?content_id=434"
+      "source": "岡山県観光連盟",
+      "url": "https://www.okayama-kanko.jp/event/detail_101053.html"
     },
     {
       "name": "鏡櫓文書館企画展「江木鰐水―幕末・福山藩の兵学者―」",
@@ -2224,8 +2224,8 @@
       "free": false,
       "resv": true,
       "desc": "漫画『黄泉のツガイ』とのコラボ企画。高取城の登城道に置かれたクイズを解きつつ本丸を目指す。年末年始休止。",
-      "source": "高取町（PR TIMES発表）",
-      "url": "https://prtimes.jp/main/html/rd/p/000000009.000172099.html"
+      "source": "高取町",
+      "url": "https://www.town.takatori.nara.jp/contents_detail.php?frmId=2699"
     },
     {
       "name": "第29回わかてだを見る集い",
@@ -2408,20 +2408,6 @@
       "desc": "鳥取城跡の県立博物館で、藩政資料や池田家の大名道具、久松山の自然史資料を紹介。一般180円。",
       "source": "鳥取県立博物館（鳥取県）",
       "url": "https://www.pref.tottori.lg.jp/hantosiro9/"
-    },
-    {
-      "name": "国宝松本城ライトアップ（患者安全週間）",
-      "castle": "松本城",
-      "pref": "長野県",
-      "region": "chubu",
-      "type": "ライトアップ",
-      "start": "2026-11-26",
-      "end": "2026-11-26",
-      "free": true,
-      "resv": false,
-      "desc": "患者安全週間に合わせ、17時〜21時に天守をオレンジ色に点灯する。城の外から眺められる。",
-      "source": "松本城管理事務所",
-      "url": "https://www.matsumoto-castle.jp/topics/8725.html"
     },
     {
       "name": "小田原城天守閣カラーライトアップ（小田原市制記念日）",
@@ -2940,6 +2926,118 @@
       "desc": "12/5・19はくノ一や着物姿、12/11・25は甲冑姿のキャストが登場し記念撮影ができる。予約不要。",
       "source": "松山城",
       "url": "https://www.matsuyamajo.jp/event/12-2.html"
+    },
+    {
+      "name": "「新しいツキノワグマを迎えよう！」名前の投票と絵・イラストの展示",
+      "castle": "和歌山城",
+      "pref": "和歌山県",
+      "region": "kinki",
+      "type": "展示",
+      "start": "2026-11-29",
+      "end": "2027-02-28",
+      "free": false,
+      "resv": false,
+      "desc": "来春に城公園動物園へ来るツキノワグマの名前を10候補から投票で決める。応募された絵やイラストも園内で展示。",
+      "source": "史跡和歌山城（和歌山市）",
+      "url": "https://wakayamajo.jp/official-event/2067/"
+    },
+    {
+      "name": "国宝松江城天守VR体験",
+      "castle": "松江城",
+      "pref": "島根県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "free": true,
+      "resv": false,
+      "desc": "松江歴史館でVRゴーグルを着け、天守に登る体験ができる。天井付近や井戸の中など普段見られない所も。13歳以上、無料。",
+      "source": "松江歴史館",
+      "url": "https://matsu-reki.jp/event/vr/"
+    },
+    {
+      "name": "まこもを使ったしめ縄づくり",
+      "castle": "松江城",
+      "pref": "島根県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "free": false,
+      "resv": true,
+      "desc": "松江歴史館の復原長屋で、真菰を使って正月用のしめ縄を作る。10〜12時、定員10名、参加費2,000円。",
+      "source": "松江歴史館",
+      "url": "https://matsu-reki.jp/event/20221203/"
+    },
+    {
+      "name": "書き初め",
+      "castle": "松江城",
+      "pref": "島根県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2027-01-02",
+      "end": "2027-01-02",
+      "free": true,
+      "resv": true,
+      "desc": "松江歴史館で書道の先生に習いながら書き初めをする。1回30分・5名で道具は館が用意。12/1から電話で先着受付。",
+      "source": "松江歴史館",
+      "url": "https://matsu-reki.jp/event/20230102/"
+    },
+    {
+      "name": "企画展「首里城－琉球の御城－」",
+      "castle": "首里城",
+      "pref": "沖縄県",
+      "region": "kyushu",
+      "type": "展示",
+      "start": "2026-12-01",
+      "end": "2027-01-31",
+      "free": false,
+      "resv": false,
+      "desc": "沖縄県立博物館・美術館で、古地図や宝物、出土品、再建の歩みなどから王国の中心だった首里城を紹介。",
+      "source": "沖縄県立博物館・美術館",
+      "url": "https://okimu.jp/exhibition/shurijo2026/"
+    },
+    {
+      "name": "熊本城 特別ライトアップ（西南戦争150年記念事業）",
+      "castle": "熊本城",
+      "pref": "熊本県",
+      "region": "kyushu",
+      "type": "ライトアップ",
+      "start": "2027-02-19",
+      "end": "2027-02-19",
+      "free": true,
+      "resv": false,
+      "desc": "西南戦争から150年の節目に、熊本城を赤色の特別照明で照らす1夜限りの点灯。22時まで。",
+      "source": "熊本城公式サイト（ライトアップスケジュール）",
+      "url": "https://castle.kumamoto-guide.jp/illumination/"
+    },
+    {
+      "name": "大洲城「武将なりきり体験」",
+      "castle": "大洲城",
+      "pref": "愛媛県",
+      "region": "chugoku-shikoku",
+      "type": "体験",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "free": false,
+      "resv": true,
+      "desc": "甲冑を着て武将気分を味わう体験。各日3回・1回2名までの予約制で1,500円（入城料別）。この回で一時休止。",
+      "source": "大洲城公式ウェブサイト",
+      "url": "https://ozucastle.jp/news/1940/"
+    },
+    {
+      "name": "小田原城天守閣カラーライトアップ（北朝鮮人権侵害問題啓発週間）",
+      "castle": "小田原城",
+      "pref": "神奈川県",
+      "region": "kanto",
+      "type": "ライトアップ",
+      "start": "2026-12-16",
+      "end": "2026-12-16",
+      "free": true,
+      "resv": false,
+      "desc": "啓発週間に合わせ、天守閣を青色に照らす。19時30分〜20時30分、外から自由に見られる。",
+      "source": "小田原城 公式サイト",
+      "url": "https://odawaracastle.com/news/color-raitoappu1112.html"
     }
   ]
 }
